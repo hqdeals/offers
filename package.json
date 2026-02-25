@@ -1,0 +1,14 @@
+{
+  "name": "offers",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Convert and enrich offers from XML to JSON",
+  "scripts": {
+    "parse:categories": "node parse-categories.js",
+    "parse:offers": "node parse-offers.js"
+  },
+  "dependencies": {
+    "jsdom": "^28.1.0",
+    "xml2js": "^0.6.2"
+  }
+}

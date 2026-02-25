@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Siemens ET375CFA1E iQ300 Domin",
+    "asin": "B01LVZBYVW",
+    "date": "Tue, 24 Feb 2026 10:29:46 PST",
+    "note": 4.5,
+    "price": {
+      "current": 258,
+      "original": 299.99
+    },
+    "discount": {
+      "amount": 41.99,
+      "percentage": 14
+    },
+    "image": "https://m.media-amazon.com/images/I/31ap1YeV6tL._AC_SL1001_.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01LVZBYVW",
+      "rel": "Amazon"
+    }
+  }
+]
