@@ -195,8 +195,8 @@
     "date": "Mon, 23 Feb 2026 19:27:31 PST",
     "note": 4.5,
     "price": {
-      "current": null,
-      "original": null
+      "current": 1719.81,
+      "original": 1885.43
     },
     "discount": {
       "amount": 165.62,

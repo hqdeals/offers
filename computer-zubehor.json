@@ -138,8 +138,8 @@
     "date": "Tue, 24 Feb 2026 06:01:52 PST",
     "note": 4.5,
     "price": {
-      "current": null,
-      "original": null
+      "current": 2678.62,
+      "original": 2913.16
     },
     "discount": {
       "amount": 234.54,
@@ -157,8 +157,8 @@
     "date": "Tue, 24 Feb 2026 03:19:53 PST",
     "note": 4.5,
     "price": {
-      "current": null,
-      "original": null
+      "current": 1702.42,
+      "original": 1834.59
     },
     "discount": {
       "amount": 132.17,
