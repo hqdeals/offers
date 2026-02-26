@@ -1,24 +1,5 @@
 [
   {
-    "title": "Samyang 50/1,4 Objektiv DSLR A",
-    "asin": "B01I7FI556",
-    "date": "Mon, 23 Feb 2026 21:26:43 PST",
-    "note": 4.5,
-    "price": {
-      "current": 290.61,
-      "original": 554.19
-    },
-    "discount": {
-      "amount": 263.58,
-      "percentage": 47.56
-    },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B01I7FI556.jpg",
-    "link": {
-      "href": "https://www.amazon.de/dp/B01I7FI556",
-      "rel": "Amazon"
-    }
-  },
-  {
     "title": "UNBREAKcable wasserdichte Hand",
     "asin": "B08YN6DBFS",
     "date": "Tue, 24 Feb 2026 17:18:22 PST",
@@ -53,25 +34,6 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B084SDXVBD.jpg",
     "link": {
       "href": "https://www.amazon.de/dp/B084SDXVBD",
-      "rel": "Amazon"
-    }
-  },
-  {
-    "title": "Lowepro Flipside BP 400 AW III",
-    "asin": "B08XVWXS3R",
-    "date": "Tue, 24 Feb 2026 22:25:42 PST",
-    "note": 4.5,
-    "price": {
-      "current": 94.32,
-      "original": 138.4
-    },
-    "discount": {
-      "amount": 44.08,
-      "percentage": 31.85
-    },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B08XVWXS3R.jpg",
-    "link": {
-      "href": "https://www.amazon.de/dp/B08XVWXS3R",
       "rel": "Amazon"
     }
   },
@@ -129,6 +91,25 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0DZ8DLQGK.jpg",
     "link": {
       "href": "https://www.amazon.de/dp/B0DZ8DLQGK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Hama Smartwatch (Farbdisplay 1",
+    "asin": "B0DG5BP4K1",
+    "date": "Wed, 25 Feb 2026 13:07:38 PST",
+    "note": 4.5,
+    "price": {
+      "current": 56,
+      "original": 62.61
+    },
+    "discount": {
+      "amount": 6.61,
+      "percentage": 10.56
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DG5BP4K1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DG5BP4K1",
       "rel": "Amazon"
     }
   },
@@ -342,21 +323,21 @@
     }
   },
   {
-    "title": "Bose S1 Pro+ aktives, kabellos",
-    "asin": "B0CBKXGGR6",
-    "date": "Mon, 23 Feb 2026 21:50:44 PST",
+    "title": "Apple Watch SE 3 GPS 40 mm Sma",
+    "asin": "B0FQG55GFH",
+    "date": "Tue, 24 Feb 2026 19:33:30 PST",
     "note": 4.5,
     "price": {
-      "current": 589,
-      "original": 629
+      "current": 229,
+      "original": 244
     },
     "discount": {
-      "amount": 40,
-      "percentage": 6.36
+      "amount": 15,
+      "percentage": 6.15
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CBKXGGR6.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQG55GFH.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0CBKXGGR6",
+      "href": "https://www.amazon.de/dp/B0FQG55GFH",
       "rel": "Amazon"
     }
   },
@@ -376,6 +357,25 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQFRSHNZ.jpg",
     "link": {
       "href": "https://www.amazon.de/dp/B0FQFRSHNZ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Razer BlackShark V3 Pro - Kabe",
+    "asin": "B0F93TKTGY",
+    "date": "Tue, 24 Feb 2026 16:28:01 PST",
+    "note": 4.5,
+    "price": {
+      "current": 197.99,
+      "original": 209.99
+    },
+    "discount": {
+      "amount": 12,
+      "percentage": 5.71
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F93TKTGY.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F93TKTGY",
       "rel": "Amazon"
     }
   }
