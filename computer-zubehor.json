@@ -1,5 +1,43 @@
 [
   {
+    "title": "LG 32GN650B-AEU - LG Ultragear",
+    "asin": "B08VJC8MSJ",
+    "date": "Thu, 26 Feb 2026 00:20:02 PST",
+    "note": 4.5,
+    "price": {
+      "current": 343.4,
+      "original": 623.69
+    },
+    "discount": {
+      "amount": 280.29,
+      "percentage": 44.94
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08VJC8MSJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08VJC8MSJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "WD Red Plus 12 TB NAS Interne ",
+    "asin": "B0FPDKMN78",
+    "date": "Wed, 25 Feb 2026 08:12:14 PST",
+    "note": 4.5,
+    "price": {
+      "current": 277.99,
+      "original": 416.99
+    },
+    "discount": {
+      "amount": 139,
+      "percentage": 33.33
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FPDKMN78.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FPDKMN78",
+      "rel": "Amazon"
+    }
+  },
+  {
     "title": "TP-Link Deco X50-Outdoor Wi-Fi",
     "asin": "B0BVKZDF98",
     "date": "Tue, 24 Feb 2026 22:23:36 PST",
@@ -15,25 +53,6 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0BVKZDF98.jpg",
     "link": {
       "href": "https://www.amazon.de/dp/B0BVKZDF98",
-      "rel": "Amazon"
-    }
-  },
-  {
-    "title": "SONGMICS Laptoptisch Notebookt",
-    "asin": "B0087XZMR8",
-    "date": "Mon, 23 Feb 2026 23:06:31 PST",
-    "note": 4.5,
-    "price": {
-      "current": 21.99,
-      "original": 25.99
-    },
-    "discount": {
-      "amount": 4,
-      "percentage": 15.39
-    },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0087XZMR8.jpg",
-    "link": {
-      "href": "https://www.amazon.de/dp/B0087XZMR8",
       "rel": "Amazon"
     }
   },
@@ -57,154 +76,154 @@
     }
   },
   {
-    "title": "Razer Battle Bundle - DeathAdd",
-    "asin": "B09FFH1TXQ",
-    "date": "Tue, 24 Feb 2026 03:27:48 PST",
+    "title": "Schultertasche F.C. Barcelona ",
+    "asin": "B0798W2NLV",
+    "date": "Wed, 25 Feb 2026 10:44:35 PST",
     "note": 4.5,
     "price": {
-      "current": 85.63,
-      "original": 95.14
+      "current": 9.43,
+      "original": 10.48
     },
     "discount": {
-      "amount": 9.51,
-      "percentage": 10
+      "amount": 1.05,
+      "percentage": 10.02
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B09FFH1TXQ.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0798W2NLV.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B09FFH1TXQ",
+      "href": "https://www.amazon.de/dp/B0798W2NLV",
       "rel": "Amazon"
     }
   },
   {
-    "title": "Transcend 64 GB JetDrive Lite ",
-    "asin": "B00K73NSXQ",
-    "date": "Tue, 24 Feb 2026 03:26:30 PST",
+    "title": "ASUS ROG Strix B850-I Gaming W",
+    "asin": "B0DP5F4WH3",
+    "date": "Wed, 25 Feb 2026 22:25:30 PST",
     "note": 4.5,
     "price": {
-      "current": 17.51,
-      "original": 19.45
+      "current": 249.95,
+      "original": 275
     },
     "discount": {
-      "amount": 1.94,
-      "percentage": 9.97
+      "amount": 25.05,
+      "percentage": 9.11
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B00K73NSXQ.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DP5F4WH3.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B00K73NSXQ",
+      "href": "https://www.amazon.de/dp/B0DP5F4WH3",
       "rel": "Amazon"
     }
   },
   {
-    "title": "SonicWall 01-SSC-0213",
-    "asin": "B00WH4A0X4",
-    "date": "Tue, 24 Feb 2026 08:34:01 PST",
+    "title": "Logitech Signature M650 L Kabe",
+    "asin": "B07W5JHM12",
+    "date": "Thu, 26 Feb 2026 15:55:06 PST",
     "note": 4.5,
     "price": {
-      "current": 332.13,
-      "original": 365.27
+      "current": 26.98,
+      "original": 29.67
     },
     "discount": {
-      "amount": 33.14,
+      "amount": 2.69,
       "percentage": 9.07
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B00WH4A0X4.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W5JHM12.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B00WH4A0X4",
+      "href": "https://www.amazon.de/dp/B07W5JHM12",
       "rel": "Amazon"
     }
   },
   {
-    "title": "MSI Raider GE78HX-065ES 32GB R",
-    "asin": "B0C34GC46H",
-    "date": "Tue, 24 Feb 2026 06:01:52 PST",
+    "title": "BenQ GW2790E 27 Zoll Eye-Care ",
+    "asin": "B0CT5P2DS9",
+    "date": "Thu, 26 Feb 2026 11:15:51 PST",
     "note": 4.5,
     "price": {
-      "current": 2678.62,
-      "original": 2913.16
+      "current": 104.99,
+      "original": 114.6
     },
     "discount": {
-      "amount": 234.54,
-      "percentage": 8.05
+      "amount": 9.61,
+      "percentage": 8.39
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C34GC46H.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CT5P2DS9.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0C34GC46H",
+      "href": "https://www.amazon.de/dp/B0CT5P2DS9",
       "rel": "Amazon"
     }
   },
   {
-    "title": "MSI Notebook, Mehrfarbig, Standard",
-    "asin": "B0C6TYGD47",
-    "date": "Tue, 24 Feb 2026 03:19:53 PST",
+    "title": "Logitech MX Keys S Combo: Leis",
+    "asin": "B07W4DGPSM",
+    "date": "Thu, 26 Feb 2026 04:16:58 PST",
     "note": 4.5,
     "price": {
-      "current": 1702.42,
-      "original": 1834.59
+      "current": 133.99,
+      "original": 144
     },
     "discount": {
-      "amount": 132.17,
-      "percentage": 7.2
+      "amount": 10.01,
+      "percentage": 6.95
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C6TYGD47.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W4DGPSM.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0C6TYGD47",
+      "href": "https://www.amazon.de/dp/B07W4DGPSM",
       "rel": "Amazon"
     }
   },
   {
-    "title": "Apple 2022 10,9'' iPad (Wi-Fi,",
-    "asin": "B0BJMXGRLN",
-    "date": "Tue, 24 Feb 2026 13:37:06 PST",
+    "title": "Logitech C920s HD PRO Webcam, ",
+    "asin": "B07MM4V7NR",
+    "date": "Thu, 26 Feb 2026 12:45:01 PST",
     "note": 4.5,
     "price": {
-      "current": 469,
-      "original": 499
+      "current": 49.9,
+      "original": 52.47
     },
     "discount": {
-      "amount": 30,
-      "percentage": 6.01
+      "amount": 2.57,
+      "percentage": 4.9
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BJMXGRLN.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07MM4V7NR.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0BJMXGRLN",
+      "href": "https://www.amazon.de/dp/B07MM4V7NR",
       "rel": "Amazon"
     }
   },
   {
-    "title": "DIGITUS Netzwerkschrank - 19 Z",
-    "asin": "B08GM41QQG",
-    "date": "Mon, 23 Feb 2026 22:47:05 PST",
+    "title": "D-Link G416/E Eagle PRO AI AX1",
+    "asin": "B00PS0MM4O",
+    "date": "Thu, 26 Feb 2026 02:23:13 PST",
     "note": 4.5,
     "price": {
-      "current": 145.45,
-      "original": 154.4
+      "current": 101.59,
+      "original": 106.27
     },
     "discount": {
-      "amount": 8.95,
-      "percentage": 5.8
+      "amount": 4.68,
+      "percentage": 4.4
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B08GM41QQG.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00PS0MM4O.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B08GM41QQG",
+      "href": "https://www.amazon.de/dp/B00PS0MM4O",
       "rel": "Amazon"
     }
   },
   {
-    "title": "BITFENIX 4716779442526 BFA-MSC",
-    "asin": "B0065C2UEG",
-    "date": "Tue, 24 Feb 2026 00:48:27 PST",
+    "title": "Zyxel 8-Port Multi-Gig 2.5G Cl",
+    "asin": "B0CN5LTQ27",
+    "date": "Wed, 25 Feb 2026 07:55:27 PST",
     "note": 4.5,
     "price": {
-      "current": 4.13,
-      "original": 4.37
+      "current": 178.61,
+      "original": 184.83
     },
     "discount": {
-      "amount": 0.24,
-      "percentage": 5.49
+      "amount": 6.22,
+      "percentage": 3.37
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0065C2UEG.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CN5LTQ27.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0065C2UEG",
+      "href": "https://www.amazon.de/dp/B0CN5LTQ27",
       "rel": "Amazon"
     }
   }

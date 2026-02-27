@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "Siemens SX87TX02CE, iQ700, XXL",
+    "asin": "B0DFMGQ9YS",
+    "date": "Wed, 25 Feb 2026 12:09:56 PST",
+    "note": 4.5,
+    "price": {
+      "current": 959.99,
+      "original": 1059
+    },
+    "discount": {
+      "amount": 99.01,
+      "percentage": 9.35
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFMGQ9YS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DFMGQ9YS",
+      "rel": "Amazon"
+    }
+  }
+]
