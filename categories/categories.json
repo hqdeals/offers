@@ -1,0 +1,138 @@
+[
+  {
+    "value": "auto",
+    "text": "Auto"
+  },
+  {
+    "value": "baby",
+    "text": "Baby"
+  },
+  {
+    "value": "baumarkt",
+    "text": "Baumarkt"
+  },
+  {
+    "value": "bekleidung",
+    "text": "Bekleidung"
+  },
+  {
+    "value": "beleuchtung",
+    "text": "Beleuchtung"
+  },
+  {
+    "value": "bucher",
+    "text": "Bücher"
+  },
+  {
+    "value": "burobedarf-schreibwaren",
+    "text": "Bürobedarf & Schreibwaren"
+  },
+  {
+    "value": "computer-zubehor",
+    "text": "Computer & Zubehör"
+  },
+  {
+    "value": "drogerie-korperpflege",
+    "text": "Drogerie & Körperpflege"
+  },
+  {
+    "value": "elektro-grogerate",
+    "text": "Elektro-Großgeräte"
+  },
+  {
+    "value": "elektronik-foto",
+    "text": "Elektronik & Foto"
+  },
+  {
+    "value": "filme-tv",
+    "text": "Filme & TV"
+  },
+  {
+    "value": "fremdsprachige-bucher",
+    "text": "Fremdsprachige Bücher"
+  },
+  {
+    "value": "games",
+    "text": "Games"
+  },
+  {
+    "value": "garten",
+    "text": "Garten"
+  },
+  {
+    "value": "geschenkgutscheine",
+    "text": "Geschenkgutscheine"
+  },
+  {
+    "value": "haustier",
+    "text": "Haustier"
+  },
+  {
+    "value": "kindle-shop",
+    "text": "Kindle-Shop"
+  },
+  {
+    "value": "koffer-rucksacke-taschen",
+    "text": "Koffer, Rucksäcke & Taschen"
+  },
+  {
+    "value": "kuche-haushalt",
+    "text": "Küche & Haushalt"
+  },
+  {
+    "value": "lebensmittel-getranke",
+    "text": "Lebensmittel & Getränke"
+  },
+  {
+    "value": "motorrad",
+    "text": "Motorrad"
+  },
+  {
+    "value": "musik",
+    "text": "Musik"
+  },
+  {
+    "value": "musikinstrumente-dj-equipment",
+    "text": "Musikinstrumente & DJ-Equipment"
+  },
+  {
+    "value": "other",
+    "text": "Other"
+  },
+  {
+    "value": "parfumerie-kosmetik",
+    "text": "Parfümerie & Kosmetik"
+  },
+  {
+    "value": "schmuck",
+    "text": "Schmuck"
+  },
+  {
+    "value": "schuhe-handtaschen",
+    "text": "Schuhe & Handtaschen"
+  },
+  {
+    "value": "software",
+    "text": "Software"
+  },
+  {
+    "value": "sonstiges",
+    "text": "Sonstiges"
+  },
+  {
+    "value": "spielzeug",
+    "text": "Spielzeug"
+  },
+  {
+    "value": "sport-freizeit",
+    "text": "Sport & Freizeit"
+  },
+  {
+    "value": "uhren",
+    "text": "Uhren"
+  },
+  {
+    "value": "zeitschriften",
+    "text": "Zeitschriften"
+  }
+]
