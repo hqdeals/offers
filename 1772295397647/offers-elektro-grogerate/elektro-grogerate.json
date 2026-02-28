@@ -1,0 +1,70 @@
+[
+  {
+    "title": "NEFF D63IDK1S0, N 30, Wandesse",
+    "asin": "B0CHWJ8YGJ",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 291.99,
+      "original": 315.17
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHWJ8YGJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CHWJ8YGJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens KF96NVPEA iQ300 Multi-",
+    "asin": "B09DQ68X1N",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 1164,
+      "original": 1290
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09DQ68X1N.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09DQ68X1N",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens WG44B2A40 iQ700 Waschm",
+    "asin": "B0BX288RXM",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 742,
+      "original": 768
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX288RXM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BX288RXM",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "SIEMENS KG36N2WCF, iQ300, Kühl",
+    "asin": "B0C4ZJVW2R",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 732.4,
+      "original": 769.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C4ZJVW2R.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C4ZJVW2R",
+      "rel": "Amazon"
+    }
+  }
+]

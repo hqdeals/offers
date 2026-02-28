@@ -1,0 +1,70 @@
+[
+  {
+    "title": "MILAN Capsule Special Series F",
+    "asin": "B0BSFZKHXS",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 19.28,
+      "original": 21.42
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BSFZKHXS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BSFZKHXS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "STAEDTLER 775 CA30P Druckbleis",
+    "asin": "B0041VQ0IU",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 64.11,
+      "original": 71.23
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0041VQ0IU.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0041VQ0IU",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Cookez Makery Yum Yumz Sammelv",
+    "asin": "B0DQ6D8SWL",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 24.51,
+      "original": 29.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DQ6D8SWL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DQ6D8SWL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Leitz 39580069 Style Sichtbuch, titan blau 20 Hüll",
+    "asin": "B00LTLC5OS",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 4.97,
+      "original": 8.54
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00LTLC5OS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00LTLC5OS",
+      "rel": "Amazon"
+    }
+  }
+]

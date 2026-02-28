@@ -1,0 +1,342 @@
+[
+  {
+    "title": "SilverStone Technology ALTA G1",
+    "asin": "B09K76KWPV",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 158.89,
+      "original": 164.42
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09K76KWPV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09K76KWPV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Canon MAXIFY GX6550 Tintenstra",
+    "asin": "B0CH8DKHDY",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 399.9,
+      "original": 468.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CH8DKHDY.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CH8DKHDY",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "StarTech.com mSATA auf SATA Fe",
+    "asin": "B00HHJJIPA",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 18.52,
+      "original": 19.5
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00HHJJIPA.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00HHJJIPA",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Lenovo IdeaPad Slim 3i Laptop ",
+    "asin": "B0F8F3NNS6",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 549.99,
+      "original": 601.29
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F8F3NNS6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F8F3NNS6",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Corsair Nautilus 240 RS ARGB C",
+    "asin": "B0DF79W2TS",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 79.9,
+      "original": 84.8
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DF79W2TS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DF79W2TS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Lenovo Idea Tab Pro Tablet | 1",
+    "asin": "B0DLBLP3HN",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 325,
+      "original": 386.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DLBLP3HN.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DLBLP3HN",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "GIGABYTE B760M DS3H DDR4 Mothe",
+    "asin": "B0BPMH3N7H",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 84.32,
+      "original": 86.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BPMH3N7H.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BPMH3N7H",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Fractal Design Define 7 Mini B",
+    "asin": "B08C2XKPNK",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 89.9,
+      "original": 96.62
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08C2XKPNK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08C2XKPNK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple iPad Air 11\" mit M3 Chip",
+    "asin": "B0DZ772DS5",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 525,
+      "original": 589
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DZ772DS5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DZ772DS5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Razer Pro Click V2 - Kabellose",
+    "asin": "B0F29H3VZ8",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 82.99,
+      "original": 86.89
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F29H3VZ8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F29H3VZ8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link Archer AX55 Pro Wi-Fi ",
+    "asin": "B0BNYT4764",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 58.52,
+      "original": 62.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BNYT4764.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BNYT4764",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Astro Bot Rescue Mission PSVR",
+    "asin": "B07H2Y6RPL",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 18.53,
+      "original": 19.65
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07H2Y6RPL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07H2Y6RPL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG gram 17 Zoll Laptop Leichte",
+    "asin": "B0DYV1LQVC",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 1449,
+      "original": 1499.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DYV1LQVC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DYV1LQVC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Signature M650 L Kabe",
+    "asin": "B07W5JHM12",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 26.98,
+      "original": 29.67
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W5JHM12.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07W5JHM12",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech C920s HD PRO Webcam, ",
+    "asin": "B07MM4V7NR",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 49.9,
+      "original": 52.47
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07MM4V7NR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07MM4V7NR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "BenQ GW2790E 27 Zoll Eye-Care ",
+    "asin": "B0CT5P2DS9",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 104.99,
+      "original": 114.6
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CT5P2DS9.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CT5P2DS9",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "iiyama Prolite T2755MSC-B1 68,",
+    "asin": "B0CSY7H98K",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 359,
+      "original": 378
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CSY7H98K.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CSY7H98K",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "D-Link G416/E Eagle PRO AI AX1",
+    "asin": "B00PS0MM4O",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 101.59,
+      "original": 106.27
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00PS0MM4O.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00PS0MM4O",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG 32GN650B-AEU - LG Ultragear",
+    "asin": "B08VJC8MSJ",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 343.4,
+      "original": 623.69
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08VJC8MSJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08VJC8MSJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS ROG Strix B850-I Gaming W",
+    "asin": "B0DP5F4WH3",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 249.95,
+      "original": 275
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DP5F4WH3.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DP5F4WH3",
+      "rel": "Amazon"
+    }
+  }
+]

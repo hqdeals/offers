@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Gardena smart SILENO Free Set ",
+    "asin": "B0DMFBHYBP",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 812.23,
+      "original": 871.64
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DMFBHYBP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DMFBHYBP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Gardena AquaBloom L Set, autar",
+    "asin": "B0DNFHQQ9W",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 124.9,
+      "original": 129.83
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DNFHQQ9W.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DNFHQQ9W",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Neudorff Azet TomatenDünger – ",
+    "asin": "B002CW7LKG",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 4.79,
+      "original": 5.49
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B002CW7LKG.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B002CW7LKG",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "VOTHA® Wandverteiler - verdrah",
+    "asin": "B088RFCKYG",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 160.61,
+      "original": 173.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B088RFCKYG.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B088RFCKYG",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Einhell Akku-Vertikutierer-Lüf",
+    "asin": "B08WBDSBHG",
+    "reviews": {
+      "note": 4.5,
+      "count": 1000
+    },
+    "price": {
+      "current": 169.49,
+      "original": 179.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08WBDSBHG.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08WBDSBHG",
+      "rel": "Amazon"
+    }
+  }
+]
