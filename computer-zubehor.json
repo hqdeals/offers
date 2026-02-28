@@ -19,78 +19,21 @@
     }
   },
   {
-    "title": "WD Red Plus 12 TB NAS Interne ",
-    "asin": "B0FPDKMN78",
-    "date": "Wed, 25 Feb 2026 08:12:14 PST",
+    "title": "Apple iPad Air 11\" mit M3 Chip",
+    "asin": "B0DZ772DS5",
+    "date": "Fri, 27 Feb 2026 03:45:47 PST",
     "note": 4.5,
     "price": {
-      "current": 277.99,
-      "original": 416.99
+      "current": 525,
+      "original": 589
     },
     "discount": {
-      "amount": 139,
-      "percentage": 33.33
+      "amount": 64,
+      "percentage": 10.87
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FPDKMN78.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DZ772DS5.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0FPDKMN78",
-      "rel": "Amazon"
-    }
-  },
-  {
-    "title": "TP-Link Deco X50-Outdoor Wi-Fi",
-    "asin": "B0BVKZDF98",
-    "date": "Tue, 24 Feb 2026 22:23:36 PST",
-    "note": 4.5,
-    "price": {
-      "current": 59,
-      "original": 69.97
-    },
-    "discount": {
-      "amount": 10.97,
-      "percentage": 15.68
-    },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BVKZDF98.jpg",
-    "link": {
-      "href": "https://www.amazon.de/dp/B0BVKZDF98",
-      "rel": "Amazon"
-    }
-  },
-  {
-    "title": "TP-Link Deco X1500 Mesh WLAN S",
-    "asin": "B0CL577P1S",
-    "date": "Tue, 24 Feb 2026 21:03:34 PST",
-    "note": 4.5,
-    "price": {
-      "current": 64,
-      "original": 73
-    },
-    "discount": {
-      "amount": 9,
-      "percentage": 12.33
-    },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CL577P1S.jpg",
-    "link": {
-      "href": "https://www.amazon.de/dp/B0CL577P1S",
-      "rel": "Amazon"
-    }
-  },
-  {
-    "title": "Schultertasche F.C. Barcelona ",
-    "asin": "B0798W2NLV",
-    "date": "Wed, 25 Feb 2026 10:44:35 PST",
-    "note": 4.5,
-    "price": {
-      "current": 9.43,
-      "original": 10.48
-    },
-    "discount": {
-      "amount": 1.05,
-      "percentage": 10.02
-    },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0798W2NLV.jpg",
-    "link": {
-      "href": "https://www.amazon.de/dp/B0798W2NLV",
+      "href": "https://www.amazon.de/dp/B0DZ772DS5",
       "rel": "Amazon"
     }
   },
@@ -133,6 +76,25 @@
     }
   },
   {
+    "title": "Lenovo IdeaPad Slim 3i Laptop ",
+    "asin": "B0F8F3NNS6",
+    "date": "Fri, 27 Feb 2026 09:43:07 PST",
+    "note": 4.5,
+    "price": {
+      "current": 549.99,
+      "original": 601.29
+    },
+    "discount": {
+      "amount": 51.3,
+      "percentage": 8.53
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F8F3NNS6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F8F3NNS6",
+      "rel": "Amazon"
+    }
+  },
+  {
     "title": "BenQ GW2790E 27 Zoll Eye-Care ",
     "asin": "B0CT5P2DS9",
     "date": "Thu, 26 Feb 2026 11:15:51 PST",
@@ -152,21 +114,59 @@
     }
   },
   {
-    "title": "Logitech MX Keys S Combo: Leis",
-    "asin": "B07W4DGPSM",
-    "date": "Thu, 26 Feb 2026 04:16:58 PST",
+    "title": "TP-Link Archer AX55 Pro Wi-Fi ",
+    "asin": "B0BNYT4764",
+    "date": "Thu, 26 Feb 2026 19:43:03 PST",
     "note": 4.5,
     "price": {
-      "current": 133.99,
-      "original": 144
+      "current": 58.52,
+      "original": 62.9
     },
     "discount": {
-      "amount": 10.01,
-      "percentage": 6.95
+      "amount": 4.38,
+      "percentage": 6.96
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W4DGPSM.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BNYT4764.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B07W4DGPSM",
+      "href": "https://www.amazon.de/dp/B0BNYT4764",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Astro Bot Rescue Mission PSVR",
+    "asin": "B07H2Y6RPL",
+    "date": "Thu, 26 Feb 2026 18:04:27 PST",
+    "note": 4.5,
+    "price": {
+      "current": 18.53,
+      "original": 19.65
+    },
+    "discount": {
+      "amount": 1.12,
+      "percentage": 5.7
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07H2Y6RPL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07H2Y6RPL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "iiyama Prolite T2755MSC-B1 68,",
+    "asin": "B0CSY7H98K",
+    "date": "Thu, 26 Feb 2026 06:29:19 PST",
+    "note": 4.5,
+    "price": {
+      "current": 359,
+      "original": 378
+    },
+    "discount": {
+      "amount": 19,
+      "percentage": 5.03
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CSY7H98K.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CSY7H98K",
       "rel": "Amazon"
     }
   },
@@ -190,6 +190,25 @@
     }
   },
   {
+    "title": "Razer Pro Click V2 - Kabellose",
+    "asin": "B0F29H3VZ8",
+    "date": "Fri, 27 Feb 2026 03:21:22 PST",
+    "note": 4.5,
+    "price": {
+      "current": 82.99,
+      "original": 86.89
+    },
+    "discount": {
+      "amount": 3.9,
+      "percentage": 4.49
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F29H3VZ8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F29H3VZ8",
+      "rel": "Amazon"
+    }
+  },
+  {
     "title": "D-Link G416/E Eagle PRO AI AX1",
     "asin": "B00PS0MM4O",
     "date": "Thu, 26 Feb 2026 02:23:13 PST",
@@ -209,21 +228,21 @@
     }
   },
   {
-    "title": "Zyxel 8-Port Multi-Gig 2.5G Cl",
-    "asin": "B0CN5LTQ27",
-    "date": "Wed, 25 Feb 2026 07:55:27 PST",
+    "title": "LG gram 17 Zoll Laptop Leichte",
+    "asin": "B0DYV1LQVC",
+    "date": "Thu, 26 Feb 2026 16:06:14 PST",
     "note": 4.5,
     "price": {
-      "current": 178.61,
-      "original": 184.83
+      "current": 1449,
+      "original": 1499.99
     },
     "discount": {
-      "amount": 6.22,
-      "percentage": 3.37
+      "amount": 50.99,
+      "percentage": 3.4
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CN5LTQ27.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DYV1LQVC.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0CN5LTQ27",
+      "href": "https://www.amazon.de/dp/B0DYV1LQVC",
       "rel": "Amazon"
     }
   }

@@ -1,20 +1,39 @@
 [
   {
-    "title": "Siemens SX87TX02CE, iQ700, XXL",
-    "asin": "B0DFMGQ9YS",
-    "date": "Wed, 25 Feb 2026 12:09:56 PST",
+    "title": "Siemens KF96NVPEA iQ300 Multi-",
+    "asin": "B09DQ68X1N",
+    "date": "Thu, 26 Feb 2026 23:58:46 PST",
     "note": 4.5,
     "price": {
-      "current": 959.99,
-      "original": 1059
+      "current": 1164,
+      "original": 1290
     },
     "discount": {
-      "amount": 99.01,
-      "percentage": 9.35
+      "amount": 126,
+      "percentage": 9.77
     },
-    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFMGQ9YS.jpg",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09DQ68X1N.jpg",
     "link": {
-      "href": "https://www.amazon.de/dp/B0DFMGQ9YS",
+      "href": "https://www.amazon.de/dp/B09DQ68X1N",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens WG44B2A40 iQ700 Waschm",
+    "asin": "B0BX288RXM",
+    "date": "Thu, 26 Feb 2026 18:40:26 PST",
+    "note": 4.5,
+    "price": {
+      "current": 742,
+      "original": 768
+    },
+    "discount": {
+      "amount": 26,
+      "percentage": 3.39
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX288RXM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BX288RXM",
       "rel": "Amazon"
     }
   }
