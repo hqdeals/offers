@@ -21,15 +21,17 @@ async function parseCategories(input) {
   }
 
   const options = Array.from(selectElement.querySelectorAll("option"));
+  const wanted = new Set([
+    "computer-zubehor",
+    "elektro-grogerate",
+    "elektronik-foto",
+  ]);
   return options
-    .filter((option) => {
-      return option.value !== "";
-    })
+    .filter((option) => option.value !== "" && wanted.has(option.value))
     .map((option) => ({
       value: option.value,
       text: option.textContent,
-    }))
-    .slice(0, 5);
+    }));
 }
 
 const now = new Date();

@@ -74,6 +74,42 @@ jobs:
     needs: [get-categories, get-offers]     
     
     steps:
+    - name: Checkout offers
+      uses: actions/checkout@v4
+      with:
+        ref: gh-pages
+        path: tmp
+
+    - name: Remove old offers
+      working-directory: tmp
+      run: |
+        set -e
+        if [ -z "${{ vars.OFFERS_RETENTION_DAYS }}" ]; then
+          echo "ERROR: OFFERS_RETENTION_DAYS is not set."
+          exit 1
+        fi
+        CUTOFF_DATE=$(date -u -d "-${{ vars.OFFERS_RETENTION_DAYS }} days" +%Y-%m-%d)
+        echo "Cutoff date (UTC): ${CUTOFF_DATE}"
+        for year_dir in *; do
+          [ -d "$year_dir" ] || continue
+          year=$(basename "$year_dir")
+          for month_dir in "$year_dir"/*; do
+            [ -d "$month_dir" ] || continue
+            month=$(basename "$month_dir")
+            for day_dir in "$month_dir"/*; do
+              [ -d "$day_dir" ] || continue
+              day=$(basename "$day_dir")
+              dir_date=$(printf "%s-%s-%s" "$year" "$month" "$day")
+              if [[ "$dir_date" < "$CUTOFF_DATE" ]]; then
+                echo "Removing $day_dir (date ${dir_date})"
+                rm -rf "$day_dir"
+              else
+                echo "Keeping $day_dir (date ${dir_date})"
+              fi
+            done
+          done
+        done
+
     - uses: actions/download-artifact@v4
       with:
         name: categories
@@ -90,4 +126,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: tmp
-        keep_files: true
