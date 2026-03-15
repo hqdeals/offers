@@ -1,0 +1,342 @@
+[
+  {
+    "title": "ASRock B760 PRO RS",
+    "asin": "B0BQWRCNT8",
+    "reviews": {
+      "rating": 4.9985450317818145,
+      "count": 1719
+    },
+    "price": {
+      "current": 107.25,
+      "original": 115.89
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BQWRCNT8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BQWRCNT8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Verbatim CD-RW, 700 MB/80 Minu",
+    "asin": "B0000AKGUO",
+    "reviews": {
+      "rating": 4.680436600852834,
+      "count": 1798
+    },
+    "price": {
+      "current": 4.99,
+      "original": 6.49
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0000AKGUO.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0000AKGUO",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Canon Tinte - PG-560XL Origina",
+    "asin": "B07X61B1ZN",
+    "reviews": {
+      "rating": 4.502787576470544,
+      "count": 1898
+    },
+    "price": {
+      "current": 22.12,
+      "original": 22.87
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07X61B1ZN.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07X61B1ZN",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link EAP245 Dualband WLAN A",
+    "asin": "B01M5JJXFR",
+    "reviews": {
+      "rating": 4.566344137141541,
+      "count": 1267
+    },
+    "price": {
+      "current": 64.9,
+      "original": 67.19
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01M5JJXFR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01M5JJXFR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "KALEA-INFORMATIQUE Adapter, um",
+    "asin": "B018KF1CSA",
+    "reviews": {
+      "rating": 4.357734747186091,
+      "count": 1591
+    },
+    "price": {
+      "current": 13.02,
+      "original": 14.8
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B018KF1CSA.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B018KF1CSA",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "XFX Qick 319 Black 12GB GDDR6 HDMI 3XDP, RX-67XTYP",
+    "asin": "B091ZKN2RV",
+    "reviews": {
+      "rating": 4.908572094734083,
+      "count": 1657
+    },
+    "price": {
+      "current": 424.49,
+      "original": 471.66
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B091ZKN2RV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B091ZKN2RV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Canon MAXIFY MB5450 Tintenstra",
+    "asin": "B01HMGYF6E",
+    "reviews": {
+      "rating": 4.601895434183221,
+      "count": 1319
+    },
+    "price": {
+      "current": 167.03,
+      "original": 185.59
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01HMGYF6E.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01HMGYF6E",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Zyxel 8-Port Gigabit PoE Switc",
+    "asin": "B01AIG5FO6",
+    "reviews": {
+      "rating": 4.843641532712528,
+      "count": 1949
+    },
+    "price": {
+      "current": 89.9,
+      "original": 105.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01AIG5FO6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01AIG5FO6",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple 13\" MacBook Air Laptop, ",
+    "asin": "B0GR1LCYRH",
+    "reviews": {
+      "rating": 4.332708531053004,
+      "count": 1483
+    },
+    "price": {
+      "current": 1399,
+      "original": 1449
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GR1LCYRH.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GR1LCYRH",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "SONOFF Zigbee 3.0 USB Dongle P",
+    "asin": "B0FMJD288B",
+    "reviews": {
+      "rating": 4.737016269117242,
+      "count": 1094
+    },
+    "price": {
+      "current": 17.9,
+      "original": 29.93
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FMJD288B.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FMJD288B",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Brio 300 Full HD-Webc",
+    "asin": "B07W4DHRYQ",
+    "reviews": {
+      "rating": 4.885925802548232,
+      "count": 1726
+    },
+    "price": {
+      "current": 37.99,
+      "original": 44.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W4DHRYQ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07W4DHRYQ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "GLORIOUS Gaming GMMK 3 Barebon",
+    "asin": "B0DFYFDL2Z",
+    "reviews": {
+      "rating": 4.837506598486873,
+      "count": 1727
+    },
+    "price": {
+      "current": 67.99,
+      "original": 74.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFYFDL2Z.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DFYFDL2Z",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple MacBook Pro Laptop mit M",
+    "asin": "B0GR17JPC4",
+    "reviews": {
+      "rating": 4.07111805605483,
+      "count": 1173
+    },
+    "price": {
+      "current": 2330,
+      "original": 2443.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GR17JPC4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GR17JPC4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "GLORIOUS Gaming – Model O3 Wir",
+    "asin": "B0FQFSFV1H",
+    "reviews": {
+      "rating": 4.233832600237894,
+      "count": 1500
+    },
+    "price": {
+      "current": 113.99,
+      "original": 119.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQFSFV1H.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FQFSFV1H",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Odyssey G65B Smart Gam",
+    "asin": "B09RHQC61B",
+    "reviews": {
+      "rating": 4.769195854224279,
+      "count": 1083
+    },
+    "price": {
+      "current": 289.99,
+      "original": 324.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09RHQC61B.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09RHQC61B",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Signature M650 Kabell",
+    "asin": "B07W6G822T",
+    "reviews": {
+      "rating": 4.509053150190909,
+      "count": 1962
+    },
+    "price": {
+      "current": 25.99,
+      "original": 26.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W6G822T.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07W6G822T",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Razer BlackShark V2 HyperSpeed",
+    "asin": "B0CBRTBSNV",
+    "reviews": {
+      "rating": 4.202153835383448,
+      "count": 1026
+    },
+    "price": {
+      "current": 67.6,
+      "original": 79.53
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CBRTBSNV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CBRTBSNV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Fractal Design North XL Charco",
+    "asin": "B0CJCK95ZC",
+    "reviews": {
+      "rating": 4.903432824805919,
+      "count": 1998
+    },
+    "price": {
+      "current": 139.89,
+      "original": 149.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CJCK95ZC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CJCK95ZC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "RATCHET & CLANK RIFT APART - PS5",
+    "asin": "B08WQMRHPS",
+    "reviews": {
+      "rating": 4.117281082538808,
+      "count": 1071
+    },
+    "price": {
+      "current": 42.29,
+      "original": 45.19
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08WQMRHPS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08WQMRHPS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Wave Keys kabellose e",
+    "asin": "B07W6JPVQC",
+    "reviews": {
+      "rating": 4.533381762338797,
+      "count": 1174
+    },
+    "price": {
+      "current": 48.99,
+      "original": 54.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W6JPVQC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07W6JPVQC",
+      "rel": "Amazon"
+    }
+  }
+]

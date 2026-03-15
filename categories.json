@@ -1,26 +1,18 @@
 {
-  "timestamp": 1773553443897,
-  "dir": "2026/03/15/05/44",
+  "timestamp": 1773567590890,
+  "dir": "2026/03/15/09/39",
   "categories": [
     {
-      "value": "auto",
-      "text": "Auto"
+      "value": "computer-zubehor",
+      "text": "Computer & Zubehör"
     },
     {
-      "value": "baby",
-      "text": "Baby"
+      "value": "elektro-grogerate",
+      "text": "Elektro-Großgeräte"
     },
     {
-      "value": "baumarkt",
-      "text": "Baumarkt"
-    },
-    {
-      "value": "bekleidung",
-      "text": "Bekleidung"
-    },
-    {
-      "value": "beleuchtung",
-      "text": "Beleuchtung"
+      "value": "elektronik-foto",
+      "text": "Elektronik & Foto"
     }
   ]
 }
