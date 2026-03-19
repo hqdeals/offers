@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Bosch KGN39OCAF, Serie 4, Kühl",
+    "asin": "B0DSW3KRWV",
+    "reviews": {
+      "rating": 4.880094541696383,
+      "count": 1744
+    },
+    "price": {
+      "current": 899.99,
+      "original": 1009.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DSW3KRWV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DSW3KRWV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "COMFEE' CH60A17EM400SS A++ Dun",
+    "asin": "B0FPCQL9NZ",
+    "reviews": {
+      "rating": 4.597653004885366,
+      "count": 1248
+    },
+    "price": {
+      "current": 84.97,
+      "original": 109.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FPCQL9NZ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FPCQL9NZ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea MF10EW70BA10 Waschmaschi",
+    "asin": "B0F5PMV88S",
+    "reviews": {
+      "rating": 4.124474253826445,
+      "count": 1159
+    },
+    "price": {
+      "current": 280.98,
+      "original": 349.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F5PMV88S.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F5PMV88S",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea MF10EW80BA10 Waschmaschi",
+    "asin": "B0F5PNQYS2",
+    "reviews": {
+      "rating": 4.371161509318698,
+      "count": 1196
+    },
+    "price": {
+      "current": 299.98,
+      "original": 369.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F5PNQYS2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F5PNQYS2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea SU 7.35X14BS Geschirrspü",
+    "asin": "B0CJ2919Q2",
+    "reviews": {
+      "rating": 4.323190838086635,
+      "count": 1281
+    },
+    "price": {
+      "current": 409.99,
+      "original": 499.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CJ2919Q2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CJ2919Q2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Comfee RCT284WH2A Kühl-/Gefrie",
+    "asin": "B0C61TGX85",
+    "reviews": {
+      "rating": 4.104468822517542,
+      "count": 1947
+    },
+    "price": {
+      "current": 209.97,
+      "original": 279
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C61TGX85.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C61TGX85",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens SX65ZX07CE, iQ500 Smar",
+    "asin": "B0CJ4ZP9M6",
+    "reviews": {
+      "rating": 4.604078465395087,
+      "count": 1256
+    },
+    "price": {
+      "current": 689.99,
+      "original": 739
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CJ4ZP9M6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CJ4ZP9M6",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "NEFF D46ED22X1 Einbau-Dunstabz",
+    "asin": "B08GFRPKC5",
+    "reviews": {
+      "rating": 4.047954302030451,
+      "count": 1179
+    },
+    "price": {
+      "current": 225.34,
+      "original": 239.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08GFRPKC5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08GFRPKC5",
+      "rel": "Amazon"
+    }
+  }
+]
