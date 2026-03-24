@@ -1,0 +1,342 @@
+[
+  {
+    "title": "DJI Ronin-S - 3-Achsen-Kardans",
+    "asin": "B07DFKML89",
+    "reviews": {
+      "rating": 4.745731092935723,
+      "count": 1058
+    },
+    "price": {
+      "current": 145.99,
+      "original": 162.21
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07DFKML89.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07DFKML89",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "XIAOMI 17 Smartphone, 12GB RAM",
+    "asin": "B0G4B8CPSV",
+    "reviews": {
+      "rating": 4.706754925150488,
+      "count": 1691
+    },
+    "price": {
+      "current": 948,
+      "original": 1069
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0G4B8CPSV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0G4B8CPSV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "XIAOMI 15T, Smartphone 12+256G",
+    "asin": "B08N9NRC1L",
+    "reviews": {
+      "rating": 4.363315742934137,
+      "count": 1775
+    },
+    "price": {
+      "current": 419,
+      "original": 473.6
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08N9NRC1L.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08N9NRC1L",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple iPhone 17 256 GB: 6,3\" D",
+    "asin": "B0FQFGMW6V",
+    "reviews": {
+      "rating": 4.768031164648717,
+      "count": 1918
+    },
+    "price": {
+      "current": 865,
+      "original": 899
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQFGMW6V.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FQFGMW6V",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Sonos Sub Mini Kompakt-Subwoof",
+    "asin": "B0BF7MD3TS",
+    "reviews": {
+      "rating": 4.368753963023553,
+      "count": 1487
+    },
+    "price": {
+      "current": 349,
+      "original": 399
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BF7MD3TS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BF7MD3TS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Forerunner 265S 42mm - Laufuhr",
+    "asin": "B0C2QG2D3Y",
+    "reviews": {
+      "rating": 4.841314430311526,
+      "count": 1894
+    },
+    "price": {
+      "current": 349.99,
+      "original": 379.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C2QG2D3Y.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C2QG2D3Y",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "XIAOMI 17 Smartphone, 12GB RAM",
+    "asin": "B0G4BZMPMS",
+    "reviews": {
+      "rating": 4.5961749158021075,
+      "count": 1109
+    },
+    "price": {
+      "current": 939,
+      "original": 1069
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0G4BZMPMS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0G4BZMPMS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI FreeClip 2, Kabellos Bl",
+    "asin": "B0G49LJ8LJ",
+    "reviews": {
+      "rating": 4.443059558949061,
+      "count": 1306
+    },
+    "price": {
+      "current": 179,
+      "original": 198.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0G49LJ8LJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0G49LJ8LJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Sony ULT Field 1 - Kabelloser ",
+    "asin": "B0CX1ZHKMG",
+    "reviews": {
+      "rating": 4.4570848098510885,
+      "count": 1303
+    },
+    "price": {
+      "current": 59,
+      "original": 62.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CX1ZHKMG.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CX1ZHKMG",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Sony WH-CH520 Kabellose Blueto",
+    "asin": "B0BTJCRW9L",
+    "reviews": {
+      "rating": 4.192894224859686,
+      "count": 1221
+    },
+    "price": {
+      "current": 24.99,
+      "original": 27.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTJCRW9L.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BTJCRW9L",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Motorola Edge 70 Smartphone (R",
+    "asin": "B0FRFPNB19",
+    "reviews": {
+      "rating": 4.300926955860141,
+      "count": 1811
+    },
+    "price": {
+      "current": 479,
+      "original": 499
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FRFPNB19.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FRFPNB19",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI Watch FIT 3 Smartwatch,",
+    "asin": "B0CYC72YW2",
+    "reviews": {
+      "rating": 4.767154964969748,
+      "count": 1096
+    },
+    "price": {
+      "current": 75,
+      "original": 89
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CYC72YW2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CYC72YW2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Watch8 Smartwat",
+    "asin": "B0FBMBTPS4",
+    "reviews": {
+      "rating": 4.768255244958047,
+      "count": 1555
+    },
+    "price": {
+      "current": 333.03,
+      "original": 370.03
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FBMBTPS4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FBMBTPS4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Forerunner 265 46mm - Laufuhr,",
+    "asin": "B0C2QCT9KD",
+    "reviews": {
+      "rating": 4.992374981236556,
+      "count": 1728
+    },
+    "price": {
+      "current": 349.99,
+      "original": 379.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C2QCT9KD.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C2QCT9KD",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI Watch FIT 4 Pro Smartwa",
+    "asin": "B0F2B272RP",
+    "reviews": {
+      "rating": 4.406075970970638,
+      "count": 1184
+    },
+    "price": {
+      "current": 149.98,
+      "original": 155.35
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F2B272RP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F2B272RP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "JBL Boombox 4 Tragbarer Blueto",
+    "asin": "B0FNS46S4J",
+    "reviews": {
+      "rating": 4.386415382036614,
+      "count": 1927
+    },
+    "price": {
+      "current": 379.99,
+      "original": 428.4
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FNS46S4J.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FNS46S4J",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Denon DCD-900NE HiFi CD Player",
+    "asin": "B09ZV4TFQC",
+    "reviews": {
+      "rating": 4.7439998616820205,
+      "count": 1426
+    },
+    "price": {
+      "current": 331.9,
+      "original": 347
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09ZV4TFQC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09ZV4TFQC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "SAMSUNG HW-Q935GF Q-Series 9.1",
+    "asin": "B0F7B1N6PM",
+    "reviews": {
+      "rating": 4.40344091712489,
+      "count": 1997
+    },
+    "price": {
+      "current": 549,
+      "original": 569
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F7B1N6PM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F7B1N6PM",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI Watch GT 5 41 mm Smartw",
+    "asin": "B0D9JY57C7",
+    "reviews": {
+      "rating": 4.286792971815409,
+      "count": 1196
+    },
+    "price": {
+      "current": 199,
+      "original": 209
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D9JY57C7.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D9JY57C7",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Nikon Z f Kit Nikkor Z 40mm 1:",
+    "asin": "B0CJF3V5W9",
+    "reviews": {
+      "rating": 4.84343882500639,
+      "count": 1597
+    },
+    "price": {
+      "current": 2090.56,
+      "original": 2179
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CJF3V5W9.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CJF3V5W9",
+      "rel": "Amazon"
+    }
+  }
+]
