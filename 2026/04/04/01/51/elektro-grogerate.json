@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Bauknecht BK4FB14BN7A0X Freist",
+    "asin": "B0DDCWL9LC",
+    "reviews": {
+      "rating": 4.931286557539453,
+      "count": 1295
+    },
+    "price": {
+      "current": 439,
+      "original": 457.94
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DDCWL9LC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DDCWL9LC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bosch HBF133BR0 Serie 2 Einbau",
+    "asin": "B07S4CVG11",
+    "reviews": {
+      "rating": 4.497007114238726,
+      "count": 1368
+    },
+    "price": {
+      "current": 279.99,
+      "original": 299.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07S4CVG11.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07S4CVG11",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Waschmaschine Toplader, 40",
+    "asin": "B0CW6D3ZLW",
+    "reviews": {
+      "rating": 4.925074911451079,
+      "count": 1521
+    },
+    "price": {
+      "current": 759,
+      "original": 885
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CW6D3ZLW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CW6D3ZLW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea SF 7.60NW14B Geschirrspü",
+    "asin": "B0CRDP6JR7",
+    "reviews": {
+      "rating": 4.419884563500286,
+      "count": 1711
+    },
+    "price": {
+      "current": 399.98,
+      "original": 429.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRDP6JR7.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CRDP6JR7",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea SF 5.45NW10C Geschirrspü",
+    "asin": "B0CHWK23SF",
+    "reviews": {
+      "rating": 4.7784413220863655,
+      "count": 1638
+    },
+    "price": {
+      "current": 376.94,
+      "original": 459.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHWK23SF.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CHWK23SF",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Standherd mit Induktions-K",
+    "asin": "B0DJGSRG5J",
+    "reviews": {
+      "rating": 4.4387431239629755,
+      "count": 1001
+    },
+    "price": {
+      "current": 859,
+      "original": 946.76
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DJGSRG5J.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DJGSRG5J",
+      "rel": "Amazon"
+    }
+  }
+]
