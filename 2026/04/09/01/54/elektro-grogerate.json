@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Bosch GUN21ADE0, Serie 6, Smar",
+    "asin": "B0CXF8N2K4",
+    "reviews": {
+      "rating": 4.269605194514906,
+      "count": 1016
+    },
+    "price": {
+      "current": 649.99,
+      "original": 741.39
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXF8N2K4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CXF8N2K4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Haier I-PRO SERIE 5 HD90-A3959",
+    "asin": "B09WZ3NPDJ",
+    "reviews": {
+      "rating": 4.427587768232497,
+      "count": 1128
+    },
+    "price": {
+      "current": 559,
+      "original": 590.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09WZ3NPDJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09WZ3NPDJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung SKK-SSV Zwischenbau-Ra",
+    "asin": "B0BM4QZPQT",
+    "reviews": {
+      "rating": 4.705379006031251,
+      "count": 1044
+    },
+    "price": {
+      "current": 49.77,
+      "original": 56
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM4QZPQT.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BM4QZPQT",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bauknecht BK4FB14BN7A0X Freist",
+    "asin": "B0DDCWL9LC",
+    "reviews": {
+      "rating": 4.614942209090096,
+      "count": 1966
+    },
+    "price": {
+      "current": 439,
+      "original": 457.94
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DDCWL9LC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DDCWL9LC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Waschmaschine Toplader, 40",
+    "asin": "B0CW6D3ZLW",
+    "reviews": {
+      "rating": 4.6462118399555985,
+      "count": 1276
+    },
+    "price": {
+      "current": 759,
+      "original": 885
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CW6D3ZLW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CW6D3ZLW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea SF 7.60NW14B Geschirrspü",
+    "asin": "B0CRDP6JR7",
+    "reviews": {
+      "rating": 4.847797540349916,
+      "count": 1586
+    },
+    "price": {
+      "current": 399.98,
+      "original": 429.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRDP6JR7.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CRDP6JR7",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea SF 5.45NW10C Geschirrspü",
+    "asin": "B0CHWK23SF",
+    "reviews": {
+      "rating": 4.53262529119465,
+      "count": 1468
+    },
+    "price": {
+      "current": 376.94,
+      "original": 459.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHWK23SF.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CHWK23SF",
+      "rel": "Amazon"
+    }
+  }
+]
