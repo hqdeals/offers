@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Midea Waschmaschine V3 series,",
+    "asin": "B0FSKDZ4Q6",
+    "reviews": {
+      "rating": 4.542168451156545,
+      "count": 1180
+    },
+    "price": {
+      "current": 356.99,
+      "original": 419.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FSKDZ4Q6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FSKDZ4Q6",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bosch HBF133BR0 Serie 2 Einbau",
+    "asin": "B07S4CVG11",
+    "reviews": {
+      "rating": 4.858270466016526,
+      "count": 1735
+    },
+    "price": {
+      "current": 279.99,
+      "original": 299.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07S4CVG11.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07S4CVG11",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "MIDEA 7400w Induktionskochfeld",
+    "asin": "B08KDSCC6S",
+    "reviews": {
+      "rating": 4.227560444594694,
+      "count": 1577
+    },
+    "price": {
+      "current": 179.99,
+      "original": 219.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08KDSCC6S.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08KDSCC6S",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea MD11EH80BD Wärmepumpentr",
+    "asin": "B0FK4K85FC",
+    "reviews": {
+      "rating": 4.036744430926653,
+      "count": 1769
+    },
+    "price": {
+      "current": 386.99,
+      "original": 409.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FK4K85FC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FK4K85FC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Comfee RCD50WH2(E) Mini Kühlsc",
+    "asin": "B0C5X98L5G",
+    "reviews": {
+      "rating": 4.674952909939774,
+      "count": 1881
+    },
+    "price": {
+      "current": 71.24,
+      "original": 74.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C5X98L5G.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C5X98L5G",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG GSLC40PYPE Side-by-Side Küh",
+    "asin": "B0D7SMFJ6S",
+    "reviews": {
+      "rating": 4.499081516016597,
+      "count": 1408
+    },
+    "price": {
+      "current": 999,
+      "original": 1189
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D7SMFJ6S.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D7SMFJ6S",
+      "rel": "Amazon"
+    }
+  }
+]
