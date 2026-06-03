@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Bosch DWK91LT60, Serie 8, Smar",
+    "asin": "B0CRZ81WR3",
+    "reviews": {
+      "rating": 4.200646547588468,
+      "count": 1974
+    },
+    "price": {
+      "current": 749,
+      "original": 819.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRZ81WR3.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CRZ81WR3",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bauknecht KGDNF 203 A/Freisteh",
+    "asin": "B0DQ632J34",
+    "reviews": {
+      "rating": 4.196995612401332,
+      "count": 1490
+    },
+    "price": {
+      "current": 819,
+      "original": 849
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DQ632J34.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DQ632J34",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Wärmepumpentrockner 8kg, T",
+    "asin": "B0FWRFTK9J",
+    "reviews": {
+      "rating": 4.97274562292347,
+      "count": 1128
+    },
+    "price": {
+      "current": 735,
+      "original": 849
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FWRFTK9J.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FWRFTK9J",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Standherd mit Induktions-K",
+    "asin": "B0DJGSRG5J",
+    "reviews": {
+      "rating": 4.835660224783245,
+      "count": 1300
+    },
+    "price": {
+      "current": 899,
+      "original": 999.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DJGSRG5J.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DJGSRG5J",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Wärmepumpentrockner 8 kg, ",
+    "asin": "B0D2DS5X1V",
+    "reviews": {
+      "rating": 4.504841934989697,
+      "count": 1338
+    },
+    "price": {
+      "current": 549,
+      "original": 688
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D2DS5X1V.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D2DS5X1V",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens EX645HXC1E, Stiftung W",
+    "asin": "B0CGMCRS6V",
+    "reviews": {
+      "rating": 4.843346595898074,
+      "count": 1322
+    },
+    "price": {
+      "current": 539.99,
+      "original": 559.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CGMCRS6V.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CGMCRS6V",
+      "rel": "Amazon"
+    }
+  }
+]
