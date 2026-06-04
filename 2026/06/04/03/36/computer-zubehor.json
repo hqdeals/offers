@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Fractal Design Pop Air RGB Bla",
+    "asin": "B08T1GB8D8",
+    "reviews": {
+      "rating": 4.3629010435865,
+      "count": 1635
+    },
+    "price": {
+      "current": 68.63,
+      "original": 70.84
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08T1GB8D8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08T1GB8D8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link EAP610 AX1800 Gigabit ",
+    "asin": "B098K3VCHC",
+    "reviews": {
+      "rating": 4.697130834751302,
+      "count": 1695
+    },
+    "price": {
+      "current": 70.9,
+      "original": 73.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B098K3VCHC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B098K3VCHC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsonite Mysight - 15.6 Zoll ",
+    "asin": "B08MQJDKC5",
+    "reviews": {
+      "rating": 4.382718370069647,
+      "count": 1898
+    },
+    "price": {
+      "current": 67.09,
+      "original": 71.6
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08MQJDKC5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08MQJDKC5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Razer DeathAdder V4 Pro - Ultr",
+    "asin": "B0F2TGLH84",
+    "reviews": {
+      "rating": 4.882119106945511,
+      "count": 1909
+    },
+    "price": {
+      "current": 143.7,
+      "original": 149.87
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F2TGLH84.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F2TGLH84",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "StarTech.com mSATA auf SATA Fe",
+    "asin": "B00HHJJIPA",
+    "reviews": {
+      "rating": 4.477336937135642,
+      "count": 1911
+    },
+    "price": {
+      "current": 16.67,
+      "original": 17.37
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00HHJJIPA.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00HHJJIPA",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS ROG Keris II Origin White",
+    "asin": "B0F8ZYXBCC",
+    "reviews": {
+      "rating": 4.80465654964035,
+      "count": 1784
+    },
+    "price": {
+      "current": 118.69,
+      "original": 124.49
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F8ZYXBCC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F8ZYXBCC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "D-Link M15-3 EAGLE PRO AI AX15",
+    "asin": "B00PLKYLVS",
+    "reviews": {
+      "rating": 4.037790304309737,
+      "count": 1186
+    },
+    "price": {
+      "current": 145.29,
+      "original": 151.69
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00PLKYLVS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00PLKYLVS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Kensington SD1500 USB-C Mobile",
+    "asin": "B01G3JX74W",
+    "reviews": {
+      "rating": 4.544087133067262,
+      "count": 1016
+    },
+    "price": {
+      "current": 44,
+      "original": 48.89
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01G3JX74W.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01G3JX74W",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "CORSAIR CX650 ATX 650W Netztei",
+    "asin": "B0CK8NDN1Q",
+    "reviews": {
+      "rating": 4.267928456771828,
+      "count": 1990
+    },
+    "price": {
+      "current": 44.41,
+      "original": 49.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CK8NDN1Q.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CK8NDN1Q",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "MSI Notebook Raider GE68HX 13V",
+    "asin": "B0CBZ7FJPY",
+    "reviews": {
+      "rating": 4.926642099784562,
+      "count": 1943
+    },
+    "price": {
+      "current": 1499.71,
+      "original": 1608.39
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CBZ7FJPY.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CBZ7FJPY",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "PcCom Laptop Revolt 4070 17,3\"",
+    "asin": "B0CVB7MC7X",
+    "reviews": {
+      "rating": 4.396237906973325,
+      "count": 1964
+    },
+    "price": {
+      "current": 1225.29,
+      "original": 4911.38
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CVB7MC7X.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CVB7MC7X",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "15,6\" (39,6cm) NBTasche TRENDLINE + Maus",
+    "asin": "B008LABG6S",
+    "reviews": {
+      "rating": 4.370070552841615,
+      "count": 1456
+    },
+    "price": {
+      "current": 20.67,
+      "original": 21.84
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B008LABG6S.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B008LABG6S",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Gigabyte AORUS FI32U 31,5” 4K ",
+    "asin": "B09BQY8J6G",
+    "reviews": {
+      "rating": 4.802399742965099,
+      "count": 1449
+    },
+    "price": {
+      "current": 465.82,
+      "original": 502.36
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09BQY8J6G.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09BQY8J6G",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Omen Desktop Gaming PC GT22-11",
+    "asin": "B0C717L7WS",
+    "reviews": {
+      "rating": 4.146067691556185,
+      "count": 1186
+    },
+    "price": {
+      "current": 3540.73,
+      "original": 3740.13
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C717L7WS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C717L7WS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Lenovo [Maus] 300 kompakte Fun",
+    "asin": "B01EFVDDH6",
+    "reviews": {
+      "rating": 4.758045170822934,
+      "count": 1471
+    },
+    "price": {
+      "current": 6,
+      "original": 6.49
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01EFVDDH6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01EFVDDH6",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS TUF Gaming B550M-Plus Gam",
+    "asin": "B089HDJS79",
+    "reviews": {
+      "rating": 4.475209923020916,
+      "count": 1587
+    },
+    "price": {
+      "current": 106.9,
+      "original": 111.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B089HDJS79.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B089HDJS79",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple iPad Air 11\" mit M3 Chip",
+    "asin": "B0DZ753P7K",
+    "reviews": {
+      "rating": 4.8580013758170075,
+      "count": 1214
+    },
+    "price": {
+      "current": 619,
+      "original": 655.8
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DZ753P7K.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DZ753P7K",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HP OmniBook 5 Next Gen AI Lapt",
+    "asin": "B0FHQTT2VJ",
+    "reviews": {
+      "rating": 4.5575103032947695,
+      "count": 1191
+    },
+    "price": {
+      "current": 699,
+      "original": 749
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FHQTT2VJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FHQTT2VJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "GLORIOUS Gaming – Model D3 Wir",
+    "asin": "B0FQDXXGM2",
+    "reviews": {
+      "rating": 4.371581778528588,
+      "count": 1765
+    },
+    "price": {
+      "current": 104.82,
+      "original": 110.85
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQDXXGM2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FQDXXGM2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "GLORIOUS Gaming – Model D3 Wir",
+    "asin": "B0FQDHJTGM",
+    "reviews": {
+      "rating": 4.586724167127576,
+      "count": 1463
+    },
+    "price": {
+      "current": 104.82,
+      "original": 142.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQDHJTGM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FQDHJTGM",
+      "rel": "Amazon"
+    }
+  }
+]
