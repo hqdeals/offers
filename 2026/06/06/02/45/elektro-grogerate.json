@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Samsung Kühl-Gefrier-Kombinati",
+    "asin": "B0CG2CGNYL",
+    "reviews": {
+      "rating": 4.473189105082597,
+      "count": 1877
+    },
+    "price": {
+      "current": 529,
+      "original": 625
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CG2CGNYL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CG2CGNYL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung WD6100D SLIM AI Wascht",
+    "asin": "B0F32L7SDS",
+    "reviews": {
+      "rating": 4.391886114123047,
+      "count": 1115
+    },
+    "price": {
+      "current": 679,
+      "original": 769
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F32L7SDS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F32L7SDS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Hisense RS818N4TFE Side-by-Sid",
+    "asin": "B0B7SJ9ZYB",
+    "reviews": {
+      "rating": 4.2616752661106165,
+      "count": 1593
+    },
+    "price": {
+      "current": 895,
+      "original": 948.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B7SJ9ZYB.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0B7SJ9ZYB",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bauknecht BK6IC11BS7LA0 Vollin",
+    "asin": "B0DT7CJH7K",
+    "reviews": {
+      "rating": 4.929734731544576,
+      "count": 1549
+    },
+    "price": {
+      "current": 399,
+      "original": 479
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DT7CJH7K.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DT7CJH7K",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea Side-by-Side Kühl-Gefrie",
+    "asin": "B0FRDPYG9T",
+    "reviews": {
+      "rating": 4.721998435572354,
+      "count": 1511
+    },
+    "price": {
+      "current": 849.99,
+      "original": 949.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FRDPYG9T.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FRDPYG9T",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bauknecht BK4FB14BN7A0X Freist",
+    "asin": "B0DDCWL9LC",
+    "reviews": {
+      "rating": 4.695929114684262,
+      "count": 1103
+    },
+    "price": {
+      "current": 410.99,
+      "original": 450.89
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DDCWL9LC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DDCWL9LC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens SN45ZS07CE, iQ500 Smar",
+    "asin": "B0CJ53QPTK",
+    "reviews": {
+      "rating": 4.886376534911022,
+      "count": 1767
+    },
+    "price": {
+      "current": 619,
+      "original": 716.03
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CJ53QPTK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CJ53QPTK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bauknecht KGDNF 203 A/Freisteh",
+    "asin": "B0DQ632J34",
+    "reviews": {
+      "rating": 4.77082179661855,
+      "count": 1681
+    },
+    "price": {
+      "current": 819,
+      "original": 849
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DQ632J34.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DQ632J34",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Wärmepumpentrockner 8kg, T",
+    "asin": "B0FWRFTK9J",
+    "reviews": {
+      "rating": 4.542225823717565,
+      "count": 1020
+    },
+    "price": {
+      "current": 735,
+      "original": 849
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FWRFTK9J.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FWRFTK9J",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Standherd mit Induktions-K",
+    "asin": "B0DJGSRG5J",
+    "reviews": {
+      "rating": 4.864886322329105,
+      "count": 1006
+    },
+    "price": {
+      "current": 899,
+      "original": 999.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DJGSRG5J.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DJGSRG5J",
+      "rel": "Amazon"
+    }
+  }
+]

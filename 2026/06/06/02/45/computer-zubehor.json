@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Razer Nommo V2 X - Full-Range-",
+    "asin": "B0BXYNKNQC",
+    "reviews": {
+      "rating": 4.248254020246515,
+      "count": 1520
+    },
+    "price": {
+      "current": 123.99,
+      "original": 138.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BXYNKNQC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BXYNKNQC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Fractal Design Meshify 2 Nano ",
+    "asin": "B09ZY98JSL",
+    "reviews": {
+      "rating": 4.399827821589499,
+      "count": 1290
+    },
+    "price": {
+      "current": 80.46,
+      "original": 83.98
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09ZY98JSL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09ZY98JSL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Combo Touch iPad Pro ",
+    "asin": "B0D42BPTHS",
+    "reviews": {
+      "rating": 4.412302645717534,
+      "count": 1302
+    },
+    "price": {
+      "current": 134.1,
+      "original": 162.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D42BPTHS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D42BPTHS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Aeotec Z-Stick 10 Pro - Zigbee",
+    "asin": "B0F54H8J1G",
+    "reviews": {
+      "rating": 4.651337326845246,
+      "count": 1759
+    },
+    "price": {
+      "current": 67.89,
+      "original": 69.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F54H8J1G.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F54H8J1G",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Alienware AW2725DF 27 Zoll QHD",
+    "asin": "B0CVN8HWG7",
+    "reviews": {
+      "rating": 4.058442046047103,
+      "count": 1154
+    },
+    "price": {
+      "current": 549.19,
+      "original": 579.28
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CVN8HWG7.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CVN8HWG7",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link TL-WR1512X Wi-Fi 6 Rei",
+    "asin": "B0G1S72H46",
+    "reviews": {
+      "rating": 4.611277187724574,
+      "count": 1957
+    },
+    "price": {
+      "current": 49.9,
+      "original": 69.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0G1S72H46.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0G1S72H46",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "WD My Passport-Festplatte, fun",
+    "asin": "B0CL7GCHZV",
+    "reviews": {
+      "rating": 4.255381483652423,
+      "count": 1385
+    },
+    "price": {
+      "current": 148,
+      "original": 155.88
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CL7GCHZV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CL7GCHZV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Canon PIXMA G3570 MegaTank 3in",
+    "asin": "B0BN97QRPX",
+    "reviews": {
+      "rating": 4.0857291474559245,
+      "count": 1813
+    },
+    "price": {
+      "current": 180,
+      "original": 206.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BN97QRPX.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BN97QRPX",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Kensington SD1500 USB-C Mobile",
+    "asin": "B01G3JX74W",
+    "reviews": {
+      "rating": 4.381259517856439,
+      "count": 1694
+    },
+    "price": {
+      "current": 41.21,
+      "original": 44
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01G3JX74W.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01G3JX74W",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS Prime GeForce RTX 5050 8G",
+    "asin": "B09CMFK441",
+    "reviews": {
+      "rating": 4.706265615733001,
+      "count": 1403
+    },
+    "price": {
+      "current": 302.22,
+      "original": 312.65
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09CMFK441.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09CMFK441",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Speck Schutzhülle und Ständer ",
+    "asin": "B0C7JTBHPP",
+    "reviews": {
+      "rating": 4.775367031802503,
+      "count": 1524
+    },
+    "price": {
+      "current": 43.47,
+      "original": 45.96
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C7JTBHPP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C7JTBHPP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Tab S3, 9,7 Zol",
+    "asin": "B06XNNQZBW",
+    "reviews": {
+      "rating": 4.972677197890825,
+      "count": 1972
+    },
+    "price": {
+      "current": 465.54,
+      "original": 517.27
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B06XNNQZBW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B06XNNQZBW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple MacBook Air (15\", Apple ",
+    "asin": "B0DZDC6JK4",
+    "reviews": {
+      "rating": 4.155024069495006,
+      "count": 1276
+    },
+    "price": {
+      "current": 1165,
+      "original": 1209
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DZDC6JK4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DZDC6JK4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Poly Voyager Focus 2 USB-C Hea",
+    "asin": "B0DV9WBJZ7",
+    "reviews": {
+      "rating": 4.293169160415642,
+      "count": 1877
+    },
+    "price": {
+      "current": 190.76,
+      "original": 236.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DV9WBJZ7.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DV9WBJZ7",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "D-Link DUB-2315 USB-C/USB auf ",
+    "asin": "B00PS1S9OA",
+    "reviews": {
+      "rating": 4.9403913445972645,
+      "count": 1070
+    },
+    "price": {
+      "current": 35.89,
+      "original": 38.89
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00PS1S9OA.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00PS1S9OA",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Ultron 364181 UN2 Ziffernblock",
+    "asin": "B09HQMRSDF",
+    "reviews": {
+      "rating": 4.646383438203184,
+      "count": 1590
+    },
+    "price": {
+      "current": 13.07,
+      "original": 14.46
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09HQMRSDF.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09HQMRSDF",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Lenovo LOQ Gaming AI Laptop | ",
+    "asin": "B0FKC1KX1T",
+    "reviews": {
+      "rating": 4.6172431318175775,
+      "count": 1745
+    },
+    "price": {
+      "current": 999.16,
+      "original": 1219.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FKC1KX1T.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FKC1KX1T",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ABUS One HomeTec Pro Bluetooth",
+    "asin": "B08ZS15QYQ",
+    "reviews": {
+      "rating": 4.6687325891097045,
+      "count": 1964
+    },
+    "price": {
+      "current": 98.75,
+      "original": 109
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08ZS15QYQ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08ZS15QYQ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Brio 305 Full HD 1080",
+    "asin": "B07W7K59MD",
+    "reviews": {
+      "rating": 4.197115354097823,
+      "count": 1352
+    },
+    "price": {
+      "current": 47.73,
+      "original": 50.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07W7K59MD.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07W7K59MD",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS TUF Gaming B550M-Plus Gam",
+    "asin": "B089HDJS79",
+    "reviews": {
+      "rating": 4.194644731252917,
+      "count": 1710
+    },
+    "price": {
+      "current": 104,
+      "original": 108.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B089HDJS79.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B089HDJS79",
+      "rel": "Amazon"
+    }
+  }
+]
