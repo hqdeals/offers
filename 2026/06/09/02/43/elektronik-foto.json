@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Google Pixel Fold – Android-5G",
+    "asin": "B0C34JPQ4Y",
+    "reviews": {
+      "rating": 4.6541431280774574,
+      "count": 1394
+    },
+    "price": {
+      "current": 919.21,
+      "original": 1021.34
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C34JPQ4Y.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C34JPQ4Y",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI Watch GT 5 Pro Smartwat",
+    "asin": "B0D9JYH81R",
+    "reviews": {
+      "rating": 4.66037802929171,
+      "count": 1124
+    },
+    "price": {
+      "current": 194.14,
+      "original": 200.65
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D9JYH81R.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D9JYH81R",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI Watch GT 6 Smartwatch+F",
+    "asin": "B0FMF1K5W4",
+    "reviews": {
+      "rating": 4.522631072921573,
+      "count": 1548
+    },
+    "price": {
+      "current": 222,
+      "original": 237.87
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FMF1K5W4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FMF1K5W4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Sony SEL-24F18Z Zeiss Weitwink",
+    "asin": "B005LLIEO2",
+    "reviews": {
+      "rating": 4.891590705815098,
+      "count": 1596
+    },
+    "price": {
+      "current": 575.58,
+      "original": 613.13
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B005LLIEO2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B005LLIEO2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Amazfit Balance 2 Smartwatch 4",
+    "asin": "B0F8HNKK6Z",
+    "reviews": {
+      "rating": 4.853052812901759,
+      "count": 1273
+    },
+    "price": {
+      "current": 224.99,
+      "original": 246.58
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F8HNKK6Z.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F8HNKK6Z",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Belkin BoostCharge Pro 3-in-1 ",
+    "asin": "B0DPJ6YV98",
+    "reviews": {
+      "rating": 4.941005638169114,
+      "count": 1450
+    },
+    "price": {
+      "current": 59.99,
+      "original": 64.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DPJ6YV98.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DPJ6YV98",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "JBL PartyBox Ultimate – Kraftv",
+    "asin": "B0CGD77CLW",
+    "reviews": {
+      "rating": 4.637805596452784,
+      "count": 1194
+    },
+    "price": {
+      "current": 999,
+      "original": 1149
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CGD77CLW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CGD77CLW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI Watch GT 6 Smartwatch, ",
+    "asin": "B0FK4HJ4H1",
+    "reviews": {
+      "rating": 4.431206224927161,
+      "count": 1231
+    },
+    "price": {
+      "current": 189,
+      "original": 204.87
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FK4HJ4H1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FK4HJ4H1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Megasat 2600011 Satmessgerät Megasat Digital 1 HD",
+    "asin": "B01HPW0LNQ",
+    "reviews": {
+      "rating": 4.091238410417909,
+      "count": 1351
+    },
+    "price": {
+      "current": 138.65,
+      "original": 152.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01HPW0LNQ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01HPW0LNQ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Starscope Monokular Teleskop G",
+    "asin": "B0BFJ8JLDL",
+    "reviews": {
+      "rating": 4.0399355029105966,
+      "count": 1374
+    },
+    "price": {
+      "current": 94.04,
+      "original": 99.65
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BFJ8JLDL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BFJ8JLDL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "JBL Tune 680 NC Kabellose On-E",
+    "asin": "B0FV3QWBJN",
+    "reviews": {
+      "rating": 4.884049620355321,
+      "count": 1874
+    },
+    "price": {
+      "current": 76.97,
+      "original": 99.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FV3QWBJN.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FV3QWBJN",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "JBL Tune 680 NC Kabellose On-E",
+    "asin": "B0FV3RWWWF",
+    "reviews": {
+      "rating": 4.96274874172183,
+      "count": 1409
+    },
+    "price": {
+      "current": 79,
+      "original": 99.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FV3RWWWF.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FV3RWWWF",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Ultimate Ears Wonderboom 4 – m",
+    "asin": "B0D3WK9JXS",
+    "reviews": {
+      "rating": 4.037082027540091,
+      "count": 1292
+    },
+    "price": {
+      "current": 66.89,
+      "original": 73.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D3WK9JXS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D3WK9JXS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Sony PS-LX5BT Premium-Bluetoot",
+    "asin": "B0GFGLZ3FR",
+    "reviews": {
+      "rating": 4.543607090292452,
+      "count": 1147
+    },
+    "price": {
+      "current": 319.99,
+      "original": 399
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GFGLZ3FR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GFGLZ3FR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Nothing Phone (4a) - 50 MP Tri",
+    "asin": "B0GHNHTTFW",
+    "reviews": {
+      "rating": 4.482483367188838,
+      "count": 1198
+    },
+    "price": {
+      "current": 399,
+      "original": 429
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GHNHTTFW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GHNHTTFW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Razer BlackShark V3 Pro - Kabe",
+    "asin": "B0F93SPR88",
+    "reviews": {
+      "rating": 4.190496143658273,
+      "count": 1849
+    },
+    "price": {
+      "current": 184.87,
+      "original": 205.75
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F93SPR88.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F93SPR88",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG Tone Free T90S In-Ear Bluet",
+    "asin": "B0CG27DV5P",
+    "reviews": {
+      "rating": 4.187730771349309,
+      "count": 1328
+    },
+    "price": {
+      "current": 79.99,
+      "original": 98.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CG27DV5P.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CG27DV5P",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TARION Tischstativ Kamera Over",
+    "asin": "B0CKX8JK9T",
+    "reviews": {
+      "rating": 4.837562882490102,
+      "count": 1978
+    },
+    "price": {
+      "current": 127.49,
+      "original": 149.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CKX8JK9T.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CKX8JK9T",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Panasonic KX-TU160EXB 2G, Seni",
+    "asin": "B09C1X76CG",
+    "reviews": {
+      "rating": 4.318219124067791,
+      "count": 1001
+    },
+    "price": {
+      "current": 41.99,
+      "original": 51.44
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09C1X76CG.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09C1X76CG",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Nothing Phone (4a) - 50 MP Tri",
+    "asin": "B0GHNJBKMZ",
+    "reviews": {
+      "rating": 4.1914738863754755,
+      "count": 1811
+    },
+    "price": {
+      "current": 399,
+      "original": 429
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GHNJBKMZ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GHNJBKMZ",
+      "rel": "Amazon"
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Amazon Basics Unidirektionaler",
+    "asin": "B081VKWHY2",
+    "reviews": {
+      "rating": 4.828161775146214,
+      "count": 1638
+    },
+    "price": {
+      "current": 11.42,
+      "original": 13.05
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B081VKWHY2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B081VKWHY2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "NZXT C850 Gold ATX 3.1 - Volls",
+    "asin": "B0DCJCGZW5",
+    "reviews": {
+      "rating": 4.9209463134160725,
+      "count": 1088
+    },
+    "price": {
+      "current": 101.83,
+      "original": 118.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DCJCGZW5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DCJCGZW5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple iPad Air 11\" mit M3 Chip",
+    "asin": "B0DZ753P7K",
+    "reviews": {
+      "rating": 4.294464672999355,
+      "count": 1479
+    },
+    "price": {
+      "current": 579,
+      "original": 619
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DZ753P7K.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DZ753P7K",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Perixx PERIPRO-303 GPK Kleiner",
+    "asin": "B0855WH3R8",
+    "reviews": {
+      "rating": 4.879906393873998,
+      "count": 1726
+    },
+    "price": {
+      "current": 11.99,
+      "original": 16.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0855WH3R8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0855WH3R8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Fractal Design Pop Air RGB Bla",
+    "asin": "B08T1GB8D8",
+    "reviews": {
+      "rating": 4.016685887718472,
+      "count": 1580
+    },
+    "price": {
+      "current": 64.63,
+      "original": 68.63
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08T1GB8D8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08T1GB8D8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple MacBook Pro Laptop mit M",
+    "asin": "B0GR19ZMXP",
+    "reviews": {
+      "rating": 4.69316388746953,
+      "count": 1382
+    },
+    "price": {
+      "current": 4039,
+      "original": 4239
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GR19ZMXP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GR19ZMXP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG Ultrafine Ergo 32UN880K-B.A",
+    "asin": "B0DNRF5RDC",
+    "reviews": {
+      "rating": 4.363330191774208,
+      "count": 1253
+    },
+    "price": {
+      "current": 349,
+      "original": 361.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DNRF5RDC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DNRF5RDC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Netgear 6000451 Externe 5G MIM",
+    "asin": "B09NRNDNGZ",
+    "reviews": {
+      "rating": 4.506419254674001,
+      "count": 1859
+    },
+    "price": {
+      "current": 39.99,
+      "original": 49.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09NRNDNGZ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09NRNDNGZ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS TUF Gaming B850-E WiFi Ma",
+    "asin": "B0F1Z3YZN4",
+    "reviews": {
+      "rating": 4.996678070429813,
+      "count": 1269
+    },
+    "price": {
+      "current": 180.2,
+      "original": 225.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F1Z3YZN4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F1Z3YZN4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Kensington SD1500 USB-C Mobile",
+    "asin": "B01G3JX74W",
+    "reviews": {
+      "rating": 4.664067515064448,
+      "count": 1684
+    },
+    "price": {
+      "current": 37.09,
+      "original": 41.21
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01G3JX74W.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01G3JX74W",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Tab S3, 9,7 Zol",
+    "asin": "B06XNNQZBW",
+    "reviews": {
+      "rating": 4.391173288726938,
+      "count": 1101
+    },
+    "price": {
+      "current": 418.99,
+      "original": 465.54
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B06XNNQZBW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B06XNNQZBW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "StarTech PCIe HDMI Capture Car",
+    "asin": "B096YGWP8S",
+    "reviews": {
+      "rating": 4.3358584846508,
+      "count": 1163
+    },
+    "price": {
+      "current": 203.42,
+      "original": 213.13
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B096YGWP8S.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B096YGWP8S",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "FANTEC 2563 SRC-2012X07-12G/6G",
+    "asin": "B0C4WTK28W",
+    "reviews": {
+      "rating": 4.268903520382288,
+      "count": 1003
+    },
+    "price": {
+      "current": 235.24,
+      "original": 250.26
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C4WTK28W.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C4WTK28W",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "CORSAIR iCUE LINK LX120-R RGB ",
+    "asin": "B0DGVT2CQR",
+    "reviews": {
+      "rating": 4.221645770851511,
+      "count": 1174
+    },
+    "price": {
+      "current": 68.91,
+      "original": 74.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DGVT2CQR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DGVT2CQR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TCL Tab NXTPAPER 11 Plus Displ",
+    "asin": "B0F3PFRKY9",
+    "reviews": {
+      "rating": 4.0768764054633575,
+      "count": 1636
+    },
+    "price": {
+      "current": 243.76,
+      "original": 260.41
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F3PFRKY9.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F3PFRKY9",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple Apple Watch magnetisches",
+    "asin": "B0CHXHGRF2",
+    "reviews": {
+      "rating": 4.366806498097563,
+      "count": 1285
+    },
+    "price": {
+      "current": 23.81,
+      "original": 27.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHXHGRF2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CHXHGRF2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Lenovo Desktop-PC P720 XEON In",
+    "asin": "B0D2J21GWP",
+    "reviews": {
+      "rating": 4.65028675767128,
+      "count": 1259
+    },
+    "price": {
+      "current": 710.26,
+      "original": 754.48
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D2J21GWP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D2J21GWP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS ProArt Display OLED PA27U",
+    "asin": "B09D8WXFLC",
+    "reviews": {
+      "rating": 4.498412443104108,
+      "count": 1399
+    },
+    "price": {
+      "current": 1299.9,
+      "original": 1349.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09D8WXFLC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09D8WXFLC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Combo Touch iPad Pro ",
+    "asin": "B0D42BPTHS",
+    "reviews": {
+      "rating": 4.7866874713342815,
+      "count": 1522
+    },
+    "price": {
+      "current": 128.47,
+      "original": 134.1
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D42BPTHS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D42BPTHS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "MSI MPG A1000G ATX PC-Netzteil",
+    "asin": "B09NTQ8TZJ",
+    "reviews": {
+      "rating": 4.9774599927074,
+      "count": 1025
+    },
+    "price": {
+      "current": 138.91,
+      "original": 147.41
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09NTQ8TZJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09NTQ8TZJ",
+      "rel": "Amazon"
+    }
+  }
+]
