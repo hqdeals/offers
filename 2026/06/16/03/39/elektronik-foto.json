@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Amazon Ember Artline 65\" mit F",
+    "asin": "B0GF3CYXD2",
+    "reviews": {
+      "rating": 4.938478139990263,
+      "count": 1320
+    },
+    "price": {
+      "current": 899.99,
+      "original": 1029.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GF3CYXD2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GF3CYXD2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Amazon Ember Artline 55\" mit F",
+    "asin": "B0GF3MV5GT",
+    "reviews": {
+      "rating": 4.82287746063332,
+      "count": 1657
+    },
+    "price": {
+      "current": 659.99,
+      "original": 729.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GF3MV5GT.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GF3MV5GT",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "SAMYANG 7809 35/1,5 Objektiv V",
+    "asin": "B00SLP1BCC",
+    "reviews": {
+      "rating": 4.032038265213609,
+      "count": 1520
+    },
+    "price": {
+      "current": 327.46,
+      "original": 363.84
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00SLP1BCC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00SLP1BCC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "DJI OM Handyklemme (mit integriertem Zusatzlicht)",
+    "asin": "B09B7Q7YF5",
+    "reviews": {
+      "rating": 4.485703819108607,
+      "count": 1516
+    },
+    "price": {
+      "current": 29.3,
+      "original": 34.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B7Q7YF5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09B7Q7YF5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HUAWEI Smartphone, Cocoa Gold, 8 Plus 256 GB",
+    "asin": "B09Q67SVBG",
+    "reviews": {
+      "rating": 4.491993966488922,
+      "count": 1057
+    },
+    "price": {
+      "current": 705.03,
+      "original": 1125.08
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09Q67SVBG.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09Q67SVBG",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Z Flip4 5G Smar",
+    "asin": "B0B779LH27",
+    "reviews": {
+      "rating": 4.513548486092635,
+      "count": 1759
+    },
+    "price": {
+      "current": 456.83,
+      "original": 530.82
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B779LH27.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0B779LH27",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "realme 9 Pro+ 5G Smartphone oh",
+    "asin": "B09PBVBXQK",
+    "reviews": {
+      "rating": 4.0629008194466785,
+      "count": 1508
+    },
+    "price": {
+      "current": 181.88,
+      "original": 226.56
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09PBVBXQK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09PBVBXQK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Z Fold2 5G, fal",
+    "asin": "B08DRHX5D6",
+    "reviews": {
+      "rating": 4.644693877083734,
+      "count": 1240
+    },
+    "price": {
+      "current": 500,
+      "original": 862.6
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08DRHX5D6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08DRHX5D6",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Poco Watch (Blue), Messung SpO",
+    "asin": "B0B15FW3B8",
+    "reviews": {
+      "rating": 4.736990826589989,
+      "count": 1356
+    },
+    "price": {
+      "current": 32.7,
+      "original": 36.33
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B15FW3B8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0B15FW3B8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Razer Opus X - Kabelloses Head",
+    "asin": "B08Z7KBB2Q",
+    "reviews": {
+      "rating": 4.3988615878976915,
+      "count": 1909
+    },
+    "price": {
+      "current": 35.76,
+      "original": 63.11
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08Z7KBB2Q.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08Z7KBB2Q",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Opticron Adventurer T WP 12 x 50 Fernglas, schwarz",
+    "asin": "B074WG3V4F",
+    "reviews": {
+      "rating": 4.102801034562225,
+      "count": 1706
+    },
+    "price": {
+      "current": 78.32,
+      "original": 85.64
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B074WG3V4F.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B074WG3V4F",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "VEO 5 234CB110S - Stativ aus C",
+    "asin": "B0D84BYMXW",
+    "reviews": {
+      "rating": 4.702488436070148,
+      "count": 1468
+    },
+    "price": {
+      "current": 80.98,
+      "original": 85.35
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D84BYMXW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D84BYMXW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TCL 98Q7C 98 Zoll QD-Mini LED ",
+    "asin": "B0F38F4TM3",
+    "reviews": {
+      "rating": 4.6888527219754375,
+      "count": 1368
+    },
+    "price": {
+      "current": 1799,
+      "original": 1899
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F38F4TM3.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F38F4TM3",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Belkin SoundForm True Wireless",
+    "asin": "B087KR6XHM",
+    "reviews": {
+      "rating": 4.1967619491198285,
+      "count": 1818
+    },
+    "price": {
+      "current": 11.68,
+      "original": 47.83
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B087KR6XHM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B087KR6XHM",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple iPhone 17 Pro 256 GB: 6,",
+    "asin": "B0FQG8MFKP",
+    "reviews": {
+      "rating": 4.742414398663086,
+      "count": 1011
+    },
+    "price": {
+      "current": 1160,
+      "original": 1227
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQG8MFKP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FQG8MFKP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Amazon Fire TV Stick 4K Plus, ",
+    "asin": "B0F7ZFWVTC",
+    "reviews": {
+      "rating": 4.530453947750932,
+      "count": 1222
+    },
+    "price": {
+      "current": 26.99,
+      "original": 69.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F7ZFWVTC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F7ZFWVTC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Canon EW-73D Gegenlichtblende ",
+    "asin": "B01BWHE910",
+    "reviews": {
+      "rating": 4.586977739167766,
+      "count": 1078
+    },
+    "price": {
+      "current": 38.9,
+      "original": 55.42
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01BWHE910.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01BWHE910",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Amazon Basics CR2032 Lithium-K",
+    "asin": "B07RXJ4S7Z",
+    "reviews": {
+      "rating": 4.859381004354239,
+      "count": 1142
+    },
+    "price": {
+      "current": 4.92,
+      "original": 5.47
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07RXJ4S7Z.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07RXJ4S7Z",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Schnellladeadapter EP-",
+    "asin": "B0CWXQ1LSW",
+    "reviews": {
+      "rating": 4.147282942119694,
+      "count": 1467
+    },
+    "price": {
+      "current": 20.19,
+      "original": 20.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CWXQ1LSW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CWXQ1LSW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple AirTag (2. Generation): ",
+    "asin": "B0GJTCB2QM",
+    "reviews": {
+      "rating": 4.618566131396404,
+      "count": 1342
+    },
+    "price": {
+      "current": 25.78,
+      "original": 27.14
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GJTCB2QM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GJTCB2QM",
+      "rel": "Amazon"
+    }
+  }
+]
