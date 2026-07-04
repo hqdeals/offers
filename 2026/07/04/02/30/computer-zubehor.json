@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Lenovo TB 16p R7 5800H 16p 16Go 1To",
+    "asin": "B09DVQNHLX",
+    "reviews": {
+      "rating": 4.3394620551365515,
+      "count": 1242
+    },
+    "price": {
+      "current": 1461.67,
+      "original": 1582.11
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09DVQNHLX.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09DVQNHLX",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Thermaltake Riing 14 LED PC-Gehäuselüfter gelb",
+    "asin": "B010VUT4ZA",
+    "reviews": {
+      "rating": 4.514396061808824,
+      "count": 1099
+    },
+    "price": {
+      "current": 5.55,
+      "original": 6.17
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B010VUT4ZA.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B010VUT4ZA",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "MSI Notebook Raider GE68HX 13V",
+    "asin": "B0CBZ7FJPY",
+    "reviews": {
+      "rating": 4.7988454505130935,
+      "count": 1117
+    },
+    "price": {
+      "current": 1246.2,
+      "original": 5269.36
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CBZ7FJPY.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CBZ7FJPY",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS TUF Gaming VG34WQML5A 34 ",
+    "asin": "B0FKGVS6M4",
+    "reviews": {
+      "rating": 4.541389506386244,
+      "count": 1139
+    },
+    "price": {
+      "current": 344.53,
+      "original": 355.22
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FKGVS6M4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FKGVS6M4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HP Victus Gaming Laptop 16-r00",
+    "asin": "B0CKLKCVLV",
+    "reviews": {
+      "rating": 4.100041471793461,
+      "count": 1763
+    },
+    "price": {
+      "current": 1230.89,
+      "original": 1364.82
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CKLKCVLV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CKLKCVLV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link TL-SF1005P 5-Port 10/ ",
+    "asin": "B076982FVC",
+    "reviews": {
+      "rating": 4.576396141868978,
+      "count": 1573
+    },
+    "price": {
+      "current": 27.16,
+      "original": 30.18
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B076982FVC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B076982FVC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung ViewFinity S95UC Curve",
+    "asin": "B0CM299MZK",
+    "reviews": {
+      "rating": 4.880619630291636,
+      "count": 1625
+    },
+    "price": {
+      "current": 719,
+      "original": 759.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CM299MZK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CM299MZK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Tommy Hilfiger Herren Laptopta",
+    "asin": "B0DK1S6WWC",
+    "reviews": {
+      "rating": 4.648079740182404,
+      "count": 1723
+    },
+    "price": {
+      "current": 109.09,
+      "original": 121.21
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DK1S6WWC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DK1S6WWC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Synology DS225+ 2-Bay Diskstat",
+    "asin": "B0FC2888KF",
+    "reviews": {
+      "rating": 4.525892448636412,
+      "count": 1088
+    },
+    "price": {
+      "current": 329,
+      "original": 349
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FC2888KF.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FC2888KF",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Tab S9 Ultra AI",
+    "asin": "B0C8HM4JJP",
+    "reviews": {
+      "rating": 4.645031238540746,
+      "count": 1195
+    },
+    "price": {
+      "current": 1225.09,
+      "original": 1361.21
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C8HM4JJP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C8HM4JJP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech MK330 Kabelloses Tast",
+    "asin": "B009QZ3TO4",
+    "reviews": {
+      "rating": 4.227355441563941,
+      "count": 1704
+    },
+    "price": {
+      "current": 35.28,
+      "original": 37.04
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B009QZ3TO4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B009QZ3TO4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS RT-AX53U Home Office Rout",
+    "asin": "B099X58J8D",
+    "reviews": {
+      "rating": 4.258406495838334,
+      "count": 1745
+    },
+    "price": {
+      "current": 45.04,
+      "original": 47
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B099X58J8D.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B099X58J8D",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link USB C Ethernet Adapter",
+    "asin": "B08FYB5HHK",
+    "reviews": {
+      "rating": 4.20489332476078,
+      "count": 1694
+    },
+    "price": {
+      "current": 9.26,
+      "original": 9.75
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08FYB5HHK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08FYB5HHK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech Zone 300 Wireless Blu",
+    "asin": "B0D1V41GH1",
+    "reviews": {
+      "rating": 4.594652785738313,
+      "count": 1773
+    },
+    "price": {
+      "current": 49.95,
+      "original": 53.29
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D1V41GH1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D1V41GH1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Canon PGI-570 BK CLI-571 BK C ",
+    "asin": "B0CH8PCDN1",
+    "reviews": {
+      "rating": 4.756127430297042,
+      "count": 1687
+    },
+    "price": {
+      "current": 59.99,
+      "original": 61.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CH8PCDN1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CH8PCDN1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link LS1005G 5-Port Desktop",
+    "asin": "B07VC68RW1",
+    "reviews": {
+      "rating": 4.808033674618214,
+      "count": 1512
+    },
+    "price": {
+      "current": 8.99,
+      "original": 14.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07VC68RW1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07VC68RW1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "BenQ Zowie S2-DW Kabellose 4K ",
+    "asin": "B0DNHJLRKQ",
+    "reviews": {
+      "rating": 4.653471698443964,
+      "count": 1176
+    },
+    "price": {
+      "current": 129.99,
+      "original": 149
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DNHJLRKQ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DNHJLRKQ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech K120 Kabelgebundene B",
+    "asin": "B004LAWLPW",
+    "reviews": {
+      "rating": 4.96832829606558,
+      "count": 1908
+    },
+    "price": {
+      "current": 9.19,
+      "original": 12.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B004LAWLPW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B004LAWLPW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech MX Master 4 for Mac, ",
+    "asin": "B0FHHV7BTG",
+    "reviews": {
+      "rating": 4.689990482872519,
+      "count": 1161
+    },
+    "price": {
+      "current": 110.95,
+      "original": 114.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FHHV7BTG.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FHHV7BTG",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Cyber Power USV ValuePRO VP700",
+    "asin": "B089GH395H",
+    "reviews": {
+      "rating": 4.177168095815703,
+      "count": 1344
+    },
+    "price": {
+      "current": 102.29,
+      "original": 112.27
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B089GH395H.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B089GH395H",
+      "rel": "Amazon"
+    }
+  }
+]
