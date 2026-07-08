@@ -1,0 +1,342 @@
+[
+  {
+    "title": "HP OmniBook X Flip Intel Core ",
+    "asin": "B0DYJWNRNV",
+    "reviews": {
+      "rating": 4.547944821091927,
+      "count": 1234
+    },
+    "price": {
+      "current": 729,
+      "original": 799
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DYJWNRNV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DYJWNRNV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Epson EcoTank ET-3950 Tintenta",
+    "asin": "B0FKNG3MZ7",
+    "reviews": {
+      "rating": 4.66171492318986,
+      "count": 1655
+    },
+    "price": {
+      "current": 299,
+      "original": 325
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FKNG3MZ7.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FKNG3MZ7",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AOC CU34G2XPD/BK 34 Zoll Curve",
+    "asin": "B0CZ78PQ7Q",
+    "reviews": {
+      "rating": 4.878397933405303,
+      "count": 1715
+    },
+    "price": {
+      "current": 259,
+      "original": 309
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CZ78PQ7Q.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CZ78PQ7Q",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "TP-Link RE600X WiFi 6 WLAN Ver",
+    "asin": "B09DL5K9PP",
+    "reviews": {
+      "rating": 4.225077442091171,
+      "count": 1400
+    },
+    "price": {
+      "current": 59.18,
+      "original": 65.76
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09DL5K9PP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09DL5K9PP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "StarTech USB-C zu 4 HDMI 4K60 ",
+    "asin": "B0G2T4217X",
+    "reviews": {
+      "rating": 4.878131001794782,
+      "count": 1045
+    },
+    "price": {
+      "current": 131.88,
+      "original": 140.3
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0G2T4217X.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0G2T4217X",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Huawei 4G CPE 5, LTE-WLAN-Rout",
+    "asin": "B0F3TBWXTC",
+    "reviews": {
+      "rating": 4.222162583694317,
+      "count": 1878
+    },
+    "price": {
+      "current": 74.8,
+      "original": 83.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F3TBWXTC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F3TBWXTC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "PHILIPS Evnia 27M2N3500AM 27 Z",
+    "asin": "B0D94N96FK",
+    "reviews": {
+      "rating": 4.6879065521325805,
+      "count": 1844
+    },
+    "price": {
+      "current": 129,
+      "original": 159
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D94N96FK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D94N96FK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "CORSAIR Frame 4000D RS Modular",
+    "asin": "B0DPJ9FD5N",
+    "reviews": {
+      "rating": 4.977932640561098,
+      "count": 1590
+    },
+    "price": {
+      "current": 49.9,
+      "original": 89.2
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DPJ9FD5N.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DPJ9FD5N",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Klipsch ProMedia Lumina 2.1 De",
+    "asin": "B0GTMP2YV1",
+    "reviews": {
+      "rating": 4.533462512220531,
+      "count": 1067
+    },
+    "price": {
+      "current": 298.99,
+      "original": 345.51
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GTMP2YV1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GTMP2YV1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG Ultragear 39GX950B-B 39 Zol",
+    "asin": "B0GS6TRYWJ",
+    "reviews": {
+      "rating": 4.437397356264788,
+      "count": 1933
+    },
+    "price": {
+      "current": 1655.07,
+      "original": 1747.08
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GS6TRYWJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GS6TRYWJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "MSI MAG A850GL PCIE5 Netzteil,",
+    "asin": "B0C3MC57D5",
+    "reviews": {
+      "rating": 4.804171001907242,
+      "count": 1532
+    },
+    "price": {
+      "current": 94.99,
+      "original": 106.37
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C3MC57D5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C3MC57D5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LogiLink W15A54B ECO Wandschra",
+    "asin": "B06XKJ9KZS",
+    "reviews": {
+      "rating": 4.970822422305931,
+      "count": 1329
+    },
+    "price": {
+      "current": 124.99,
+      "original": 139.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B06XKJ9KZS.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B06XKJ9KZS",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Amazon Basics USB-C-auf-USB-A ",
+    "asin": "B01GGKYS6E",
+    "reviews": {
+      "rating": 4.982125919233836,
+      "count": 1410
+    },
+    "price": {
+      "current": 4.23,
+      "original": 4.7
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01GGKYS6E.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01GGKYS6E",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung ViewFinity S50C Monito",
+    "asin": "B0BRLBG6C1",
+    "reviews": {
+      "rating": 4.978220750575702,
+      "count": 1269
+    },
+    "price": {
+      "current": 198.99,
+      "original": 207.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BRLBG6C1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BRLBG6C1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Fractal Design Define 7 Mini B",
+    "asin": "B08C2XKPNK",
+    "reviews": {
+      "rating": 4.018884388586739,
+      "count": 1054
+    },
+    "price": {
+      "current": 87.16,
+      "original": 93.05
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08C2XKPNK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08C2XKPNK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "edding Druckerpatrone EDD-543 ",
+    "asin": "B07KCKMF78",
+    "reviews": {
+      "rating": 4.6819011737997425,
+      "count": 1656
+    },
+    "price": {
+      "current": 17.84,
+      "original": 21.01
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07KCKMF78.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07KCKMF78",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung C32JG52 80 cm (32 Zoll",
+    "asin": "B07FCR8KW1",
+    "reviews": {
+      "rating": 4.916710602028048,
+      "count": 1220
+    },
+    "price": {
+      "current": 265.02,
+      "original": 281.28
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07FCR8KW1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07FCR8KW1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AOC CQ32G4VE 32 Zoll Curved, W",
+    "asin": "B0D7CPSNSX",
+    "reviews": {
+      "rating": 4.605651174306947,
+      "count": 1902
+    },
+    "price": {
+      "current": 169,
+      "original": 174.29
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D7CPSNSX.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D7CPSNSX",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Logitech G PRO 2 Lightspeed ka",
+    "asin": "B0DBZJR3T1",
+    "reviews": {
+      "rating": 4.334819336227343,
+      "count": 1276
+    },
+    "price": {
+      "current": 88.17,
+      "original": 99.96
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DBZJR3T1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DBZJR3T1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Razer Viper V3 Pro Faker Editi",
+    "asin": "B0DT19Z5XL",
+    "reviews": {
+      "rating": 4.033667100569233,
+      "count": 1469
+    },
+    "price": {
+      "current": 151.72,
+      "original": 181.67
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DT19Z5XL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DT19Z5XL",
+      "rel": "Amazon"
+    }
+  }
+]
