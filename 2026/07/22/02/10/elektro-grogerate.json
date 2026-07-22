@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Bosch Serie 4 Freistehende Küh",
+    "asin": "B0DYNYY56N",
+    "reviews": {
+      "rating": 4.286388232162015,
+      "count": 1462
+    },
+    "price": {
+      "current": 849.99,
+      "original": 929.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DYNYY56N.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DYNYY56N",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Waschmaschine 8 kg, Serie ",
+    "asin": "B0C6TFGHQL",
+    "reviews": {
+      "rating": 4.290188247947228,
+      "count": 1360
+    },
+    "price": {
+      "current": 429,
+      "original": 479.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C6TFGHQL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C6TFGHQL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG WiFi Waschtrockner mit Wär",
+    "asin": "B0DYP6765L",
+    "reviews": {
+      "rating": 4.2936350541256125,
+      "count": 1318
+    },
+    "price": {
+      "current": 1199,
+      "original": 1279
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DYP6765L.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DYP6765L",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Waschmaschine, Serie 6000 ",
+    "asin": "B0CC983RRT",
+    "reviews": {
+      "rating": 4.699273188466138,
+      "count": 1583
+    },
+    "price": {
+      "current": 449,
+      "original": 519.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CC983RRT.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CC983RRT",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Wärmepumpentrockner 8 kg, ",
+    "asin": "B0DQLK3CHC",
+    "reviews": {
+      "rating": 4.950570682598915,
+      "count": 1082
+    },
+    "price": {
+      "current": 749,
+      "original": 849
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DQLK3CHC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DQLK3CHC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens iQ300 XXL Geschirrspül",
+    "asin": "B0DFMGPB9H",
+    "reviews": {
+      "rating": 4.694074552442536,
+      "count": 1536
+    },
+    "price": {
+      "current": 619,
+      "original": 659.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFMGPB9H.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DFMGPB9H",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens ET375CFA1E iQ300 Domin",
+    "asin": "B01LVZBYVW",
+    "reviews": {
+      "rating": 4.46691147203805,
+      "count": 1910
+    },
+    "price": {
+      "current": 268,
+      "original": 299.92
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01LVZBYVW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01LVZBYVW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "NEFF D46ED22X1 Einbau-Dunstabz",
+    "asin": "B08GFRPKC5",
+    "reviews": {
+      "rating": 4.185756527469016,
+      "count": 1757
+    },
+    "price": {
+      "current": 221.4,
+      "original": 246.8
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08GFRPKC5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08GFRPKC5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Siemens WG44G2F41, iQ500, Wasc",
+    "asin": "B0DNQH38KK",
+    "reviews": {
+      "rating": 4.306272581308642,
+      "count": 1228
+    },
+    "price": {
+      "current": 629,
+      "original": 981.34
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DNQH38KK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DNQH38KK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bosch GUN21ADE0, Serie 6, Smar",
+    "asin": "B0CXF8N2K4",
+    "reviews": {
+      "rating": 4.842462973519541,
+      "count": 1137
+    },
+    "price": {
+      "current": 571,
+      "original": 619.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXF8N2K4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CXF8N2K4",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "SEVERIN Kühlbox mit Kältefach,",
+    "asin": "B0C1KMW4S6",
+    "reviews": {
+      "rating": 4.762248422809371,
+      "count": 1493
+    },
+    "price": {
+      "current": 129.9,
+      "original": 139.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C1KMW4S6.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C1KMW4S6",
+      "rel": "Amazon"
+    }
+  }
+]
