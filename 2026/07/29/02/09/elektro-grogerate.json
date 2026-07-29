@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Bosch Serie 4 Freistehende Küh",
+    "asin": "B0DYNYN4HR",
+    "reviews": {
+      "rating": 4.1484976770731645,
+      "count": 1117
+    },
+    "price": {
+      "current": 999,
+      "original": 1029.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DYNYN4HR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DYNYN4HR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Induktionskochfeld autark ",
+    "asin": "B0DD4J9JVH",
+    "reviews": {
+      "rating": 4.537885629697248,
+      "count": 1442
+    },
+    "price": {
+      "current": 499.99,
+      "original": 529.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DD4J9JVH.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DD4J9JVH",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bosch Serie 4 Waschmaschine 8 ",
+    "asin": "B0D181L841",
+    "reviews": {
+      "rating": 4.433969926039139,
+      "count": 1407
+    },
+    "price": {
+      "current": 479.99,
+      "original": 509.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D181L841.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D181L841",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea Wärmepumpentrockner 7 kg",
+    "asin": "B0FJYJ92RR",
+    "reviews": {
+      "rating": 4.62891026135612,
+      "count": 1858
+    },
+    "price": {
+      "current": 349.99,
+      "original": 429.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FJYJ92RR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FJYJ92RR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bosch DWZ1FX5D1 Zubehör für Du",
+    "asin": "B08CZR9NRB",
+    "reviews": {
+      "rating": 4.07758240822671,
+      "count": 1573
+    },
+    "price": {
+      "current": 384.6,
+      "original": 426.58
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08CZR9NRB.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08CZR9NRB",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "AEG Wärmepumpentrockner 8 kg, ",
+    "asin": "B0DHCZKHT8",
+    "reviews": {
+      "rating": 4.020887794139027,
+      "count": 1879
+    },
+    "price": {
+      "current": 845.5,
+      "original": 890.32
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DHCZKHT8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DHCZKHT8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea MF10EW90B Waschmaschine ",
+    "asin": "B0CKT9ZY6B",
+    "reviews": {
+      "rating": 4.532578876335942,
+      "count": 1829
+    },
+    "price": {
+      "current": 330.98,
+      "original": 399.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CKT9ZY6B.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CKT9ZY6B",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Gorenje D5G49D Trockner/Konden",
+    "asin": "B0GTRPWJ34",
+    "reviews": {
+      "rating": 4.52500508465839,
+      "count": 1753
+    },
+    "price": {
+      "current": 429,
+      "original": 449
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GTRPWJ34.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GTRPWJ34",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea Serie V5 Wärmepumpentroc",
+    "asin": "B0H464X5KL",
+    "reviews": {
+      "rating": 4.9762762484566885,
+      "count": 1673
+    },
+    "price": {
+      "current": 450.49,
+      "original": 488.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0H464X5KL.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0H464X5KL",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Midea Heat Pump Dryer, Freestanding, Series V5, 9K",
+    "asin": "B0H45ZJK1L",
+    "reviews": {
+      "rating": 4.41400101621935,
+      "count": 1721
+    },
+    "price": {
+      "current": 467.49,
+      "original": 508.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0H45ZJK1L.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0H45ZJK1L",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG HPWD116BA Wärmepumpen-Wasch",
+    "asin": "B0H29XT98Y",
+    "reviews": {
+      "rating": 4.5494634350181595,
+      "count": 1125
+    },
+    "price": {
+      "current": 1699,
+      "original": 2099
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0H29XT98Y.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0H29XT98Y",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Gorenje FNC717DAW5 Gefrierschr",
+    "asin": "B0D251KRXP",
+    "reviews": {
+      "rating": 4.5747422275883505,
+      "count": 1761
+    },
+    "price": {
+      "current": 549,
+      "original": 579
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D251KRXP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D251KRXP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Gorenje GV642A65 Einbau-Geschi",
+    "asin": "B0GYT3R456",
+    "reviews": {
+      "rating": 4.879642449829688,
+      "count": 1000
+    },
+    "price": {
+      "current": 444,
+      "original": 479
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GYT3R456.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GYT3R456",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Bauknecht BCIO 3T341 PLET Voll",
+    "asin": "B08LDHVY4L",
+    "reviews": {
+      "rating": 4.181485868706362,
+      "count": 1590
+    },
+    "price": {
+      "current": 399,
+      "original": 467.03
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08LDHVY4L.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B08LDHVY4L",
+      "rel": "Amazon"
+    }
+  }
+]
