@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Apple MacBook Pro Laptop mit M",
+    "asin": "B0GR1S1CP5",
+    "reviews": {
+      "rating": 4.577973731930042,
+      "count": 1632
+    },
+    "price": {
+      "current": 2664,
+      "original": 2749
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GR1S1CP5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GR1S1CP5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "devolo Magic 2 Triple Erweiter",
+    "asin": "B07Y8T6GVX",
+    "reviews": {
+      "rating": 4.571886375719211,
+      "count": 1372
+    },
+    "price": {
+      "current": 65,
+      "original": 73.19
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07Y8T6GVX.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07Y8T6GVX",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Book5 360 15,6\"",
+    "asin": "B0DTKHVBN8",
+    "reviews": {
+      "rating": 4.413866239050408,
+      "count": 1909
+    },
+    "price": {
+      "current": 922.81,
+      "original": 999
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DTKHVBN8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DTKHVBN8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "D-Link DCP-651 65W GaN Schnell",
+    "asin": "B00PS1M4XM",
+    "reviews": {
+      "rating": 4.3539918491674,
+      "count": 1423
+    },
+    "price": {
+      "current": 35.39,
+      "original": 39
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00PS1M4XM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00PS1M4XM",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Palit PALIT RTX3080 12GB GamingPro, gddr6x",
+    "asin": "B09QD6G6L9",
+    "reviews": {
+      "rating": 4.770327681651612,
+      "count": 1353
+    },
+    "price": {
+      "current": 646.52,
+      "original": 685.11
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09QD6G6L9.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09QD6G6L9",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "HP Adapter USB-C zu HDMI 2.0 (2PC54AA) schwarz",
+    "asin": "B078H9J49Y",
+    "reviews": {
+      "rating": 4.186293803563394,
+      "count": 1272
+    },
+    "price": {
+      "current": 22.99,
+      "original": 24.24
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B078H9J49Y.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B078H9J49Y",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS B860M AYW Gaming WiFi, Mo",
+    "asin": "B0FPG7R93L",
+    "reviews": {
+      "rating": 4.933250966011009,
+      "count": 1265
+    },
+    "price": {
+      "current": 162.41,
+      "original": 180.45
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FPG7R93L.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FPG7R93L",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Monitorius SAMSUNG LC27G55TQBU",
+    "asin": "B0BHZRBLS7",
+    "reviews": {
+      "rating": 4.54956032627679,
+      "count": 1394
+    },
+    "price": {
+      "current": 201.58,
+      "original": 223.98
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BHZRBLS7.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BHZRBLS7",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS MX38VC 95,25 cm (37,5 Zol",
+    "asin": "B07PRY4F7N",
+    "reviews": {
+      "rating": 4.227125504231683,
+      "count": 1434
+    },
+    "price": {
+      "current": 805.72,
+      "original": 857.14
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07PRY4F7N.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07PRY4F7N",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Asus 90LM02J0-B01370 61 cm (24",
+    "asin": "B01I3KMEAC",
+    "reviews": {
+      "rating": 4.2649588690325775,
+      "count": 1374
+    },
+    "price": {
+      "current": 302.16,
+      "original": 335.73
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01I3KMEAC.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01I3KMEAC",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "KALEA-INFORMATIQUE Adapter, um",
+    "asin": "B018KF1CSA",
+    "reviews": {
+      "rating": 4.829487893945777,
+      "count": 1300
+    },
+    "price": {
+      "current": 9.63,
+      "original": 10.23
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B018KF1CSA.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B018KF1CSA",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Tab S9 Ultra AI",
+    "asin": "B0C8HM4JJP",
+    "reviews": {
+      "rating": 4.417105429950962,
+      "count": 1032
+    },
+    "price": {
+      "current": 1194.71,
+      "original": 1327.45
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C8HM4JJP.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C8HM4JJP",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "MSI MPG X870E Carbon WiFi Gami",
+    "asin": "B0DG3QW9TJ",
+    "reviews": {
+      "rating": 4.226169747912396,
+      "count": 1270
+    },
+    "price": {
+      "current": 459.08,
+      "original": 489.02
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DG3QW9TJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DG3QW9TJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "BenQ MA270S 27 Zoll 5K Monitor",
+    "asin": "B0GSSXL5GT",
+    "reviews": {
+      "rating": 4.764878123759909,
+      "count": 1678
+    },
+    "price": {
+      "current": 953.95,
+      "original": 1004.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GSSXL5GT.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GSSXL5GT",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "SANDISK Phone Drive 512 GB, 2-",
+    "asin": "B0DDQK9DN8",
+    "reviews": {
+      "rating": 4.170348438400117,
+      "count": 1882
+    },
+    "price": {
+      "current": 79.66,
+      "original": 88.38
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DDQK9DN8.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DDQK9DN8",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Lenovo TB 16p R7 5800H 16p 16Go 1To",
+    "asin": "B09DVQNHLX",
+    "reviews": {
+      "rating": 4.657987640345735,
+      "count": 1334
+    },
+    "price": {
+      "current": 1029.11,
+      "original": 1119.12
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09DVQNHLX.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B09DVQNHLX",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Intel BX80677I57400 CPU Intel-",
+    "asin": "B01MSTDS3N",
+    "reviews": {
+      "rating": 4.342492898121302,
+      "count": 1273
+    },
+    "price": {
+      "current": 95.75,
+      "original": 106.39
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01MSTDS3N.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B01MSTDS3N",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "ASUS TUF Gaming B650-PLUS Mainboard Sockel AMD AM5",
+    "asin": "B0BHHY3M7L",
+    "reviews": {
+      "rating": 4.891821141397479,
+      "count": 1326
+    },
+    "price": {
+      "current": 119.83,
+      "original": 126.77
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BHHY3M7L.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0BHHY3M7L",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LG Ultragear 39GX950B-B 39 Zol",
+    "asin": "B0GS6TRYWJ",
+    "reviews": {
+      "rating": 4.17003245480908,
+      "count": 1869
+    },
+    "price": {
+      "current": 1549,
+      "original": 1699
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GS6TRYWJ.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GS6TRYWJ",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Galaxy Tab S11 Ultra 5",
+    "asin": "B0FJS9QPYV",
+    "reviews": {
+      "rating": 4.979049332272374,
+      "count": 1307
+    },
+    "price": {
+      "current": 1399,
+      "original": 1535.44
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FJS9QPYV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FJS9QPYV",
+      "rel": "Amazon"
+    }
+  }
+]
