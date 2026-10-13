@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Vileda Wäschenetz 3er Set, 2x 30x40 cm und 1x 25x3",
+    "asin": "B0GWTN2QBR",
+    "reviews": {
+      "rating": 4.188701608469558,
+      "count": 1566
+    },
+    "price": {
+      "current": 6.87,
+      "original": 9.86
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GWTN2QBR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GWTN2QBR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Hager TXE531 x",
+    "asin": "B07R62X5X4",
+    "reviews": {
+      "rating": 4.7477930932642565,
+      "count": 1603
+    },
+    "price": {
+      "current": 467.99,
+      "original": 514.32
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07R62X5X4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07R62X5X4",
+      "rel": "Amazon"
+    }
+  }
+]
