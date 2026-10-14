@@ -1,0 +1,53 @@
+[
+  {
+    "title": "VEVOR Arbeitsplatte für Waschm",
+    "asin": "B0DSL8WTGN",
+    "reviews": {
+      "rating": 4.963736150107255,
+      "count": 1408
+    },
+    "price": {
+      "current": 88.99,
+      "original": 94.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DSL8WTGN.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DSL8WTGN",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Vileda Wäschenetz 3er Set, 2x 30x40 cm und 1x 25x3",
+    "asin": "B0GWTN2QBR",
+    "reviews": {
+      "rating": 4.605974676661473,
+      "count": 1394
+    },
+    "price": {
+      "current": 6.87,
+      "original": 9.86
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GWTN2QBR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GWTN2QBR",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Hager TXE531 x",
+    "asin": "B07R62X5X4",
+    "reviews": {
+      "rating": 4.252819150019684,
+      "count": 1160
+    },
+    "price": {
+      "current": 467.99,
+      "original": 514.32
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07R62X5X4.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07R62X5X4",
+      "rel": "Amazon"
+    }
+  }
+]
