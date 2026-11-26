@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Sony WH-1000XM6 Flaggschiff ka",
+    "asin": "B0GXVD1KM2",
+    "reviews": {
+      "rating": 4.370949684689963,
+      "count": 1853
+    },
+    "price": {
+      "current": 327,
+      "original": 369
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GXVD1KM2.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GXVD1KM2",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Belkin BoostCharge USB-C-Ladeg",
+    "asin": "B0CWGRG36V",
+    "reviews": {
+      "rating": 4.957755499206526,
+      "count": 1470
+    },
+    "price": {
+      "current": 27.99,
+      "original": 32.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CWGRG36V.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CWGRG36V",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Starter Pack EF-OF94 f",
+    "asin": "B0C9TPCPBK",
+    "reviews": {
+      "rating": 4.3043362797694655,
+      "count": 1306
+    },
+    "price": {
+      "current": 14.47,
+      "original": 16.08
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C9TPCPBK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0C9TPCPBK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Panasonic SC-GNW30 Kabelloser ",
+    "asin": "B0FJMFLNLD",
+    "reviews": {
+      "rating": 4.133265510856281,
+      "count": 1639
+    },
+    "price": {
+      "current": 149.99,
+      "original": 349
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FJMFLNLD.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FJMFLNLD",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Fitbit Sportarmband für das Go",
+    "asin": "B0GHPHHB7G",
+    "reviews": {
+      "rating": 4.117497160838738,
+      "count": 1897
+    },
+    "price": {
+      "current": 24.8,
+      "original": 29.24
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GHPHHB7G.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0GHPHHB7G",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Neewer ST08 Verstellbarer Reib",
+    "asin": "B0D1JSTXVK",
+    "reviews": {
+      "rating": 4.22287270555354,
+      "count": 1087
+    },
+    "price": {
+      "current": 17.99,
+      "original": 19.19
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D1JSTXVK.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D1JSTXVK",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "OtterBox Symmetry Series Cactu",
+    "asin": "B0DF7GTYY1",
+    "reviews": {
+      "rating": 4.546796517734854,
+      "count": 1941
+    },
+    "price": {
+      "current": 16.75,
+      "original": 25.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DF7GTYY1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DF7GTYY1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Belkin USB-C Ladegerät, 25 W –",
+    "asin": "B0F8NZCVRD",
+    "reviews": {
+      "rating": 4.150306625978718,
+      "count": 1567
+    },
+    "price": {
+      "current": 8.99,
+      "original": 17.31
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F8NZCVRD.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0F8NZCVRD",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Silicone Case EF-PF741",
+    "asin": "B0D473P3P1",
+    "reviews": {
+      "rating": 4.877880494827928,
+      "count": 1215
+    },
+    "price": {
+      "current": 14,
+      "original": 20.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D473P3P1.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0D473P3P1",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Samsung Silicone Magnet Smartp",
+    "asin": "B0G58PWJMX",
+    "reviews": {
+      "rating": 4.880326415851155,
+      "count": 1141
+    },
+    "price": {
+      "current": 12.5,
+      "original": 17.15
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0G58PWJMX.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0G58PWJMX",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "NEEWER BASICS Magnetisch Actio",
+    "asin": "B0FKSMD6KW",
+    "reviews": {
+      "rating": 4.888070124337483,
+      "count": 1079
+    },
+    "price": {
+      "current": 16.49,
+      "original": 21.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FKSMD6KW.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FKSMD6KW",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Google Pixelsnap Ring Stand - Canyon",
+    "asin": "B0H6VQ4N2Z",
+    "reviews": {
+      "rating": 4.643386760560892,
+      "count": 1568
+    },
+    "price": {
+      "current": 31.59,
+      "original": 34.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0H6VQ4N2Z.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0H6VQ4N2Z",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "SBS Slim USB-C Netzteil 65 W, ",
+    "asin": "B0CK5W8BL5",
+    "reviews": {
+      "rating": 4.842623458490604,
+      "count": 1609
+    },
+    "price": {
+      "current": 19.99,
+      "original": 34.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CK5W8BL5.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CK5W8BL5",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "NEEWER Zubehör Set kompatibel ",
+    "asin": "B0FG2KP8TF",
+    "reviews": {
+      "rating": 4.114999930783236,
+      "count": 1849
+    },
+    "price": {
+      "current": 19.49,
+      "original": 27.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FG2KP8TF.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FG2KP8TF",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "Apple iPhone 16 Plus Silikon C",
+    "asin": "B0DGHZBDBM",
+    "reviews": {
+      "rating": 4.11267099912959,
+      "count": 1420
+    },
+    "price": {
+      "current": 34.99,
+      "original": 39.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DGHZBDBM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0DGHZBDBM",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "LINDY 35346 2m Dual Phono Audiokabel, Cromo Line",
+    "asin": "B07JMJXSTV",
+    "reviews": {
+      "rating": 4.822450953443593,
+      "count": 1783
+    },
+    "price": {
+      "current": 11.26,
+      "original": 14.08
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07JMJXSTV.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B07JMJXSTV",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "InLine 16658D Netzkabel 16A, S",
+    "asin": "B00Y5TZZ0W",
+    "reviews": {
+      "rating": 4.139529135853343,
+      "count": 1680
+    },
+    "price": {
+      "current": 13.42,
+      "original": 14.04
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00Y5TZZ0W.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B00Y5TZZ0W",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "OtterBox React Necklace Hülle ",
+    "asin": "B0CQRBDXXM",
+    "reviews": {
+      "rating": 4.776305233695201,
+      "count": 1585
+    },
+    "price": {
+      "current": 8.8,
+      "original": 13.9
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CQRBDXXM.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CQRBDXXM",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "NEEWER 280cm Lichtstativ, 2 St",
+    "asin": "B0FQTTN539",
+    "reviews": {
+      "rating": 4.481276292553408,
+      "count": 1183
+    },
+    "price": {
+      "current": 89.99,
+      "original": 125.37
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FQTTN539.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0FQTTN539",
+      "rel": "Amazon"
+    }
+  },
+  {
+    "title": "NEEWER verbesserter Softbox Di",
+    "asin": "B0CJM6G7JR",
+    "reviews": {
+      "rating": 4.907149045641605,
+      "count": 1339
+    },
+    "price": {
+      "current": 48.74,
+      "original": 57.99
+    },
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CJM6G7JR.jpg",
+    "link": {
+      "href": "https://www.amazon.de/dp/B0CJM6G7JR",
+      "rel": "Amazon"
+    }
+  }
+]
